@@ -1,0 +1,8 @@
+name = "cantilever"
+filename = "cantilever-2.0-dev+mgdiy.1+26.1.jar"
+side = "server"
+
+[download]
+url = "https://github.com/ModGardenEvent/Cantilever/releases/download/2.0.0-dev%2Bmgdiy.1/cantilever-2.0-dev+mgdiy.1+26.1.jar"
+hash-format = "sha256"
+hash = "9c4653da329582b53f076b9242f7d792deb8dbd8d07e6b08c150dd5bb4dac24f"
