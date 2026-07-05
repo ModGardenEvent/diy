@@ -8,7 +8,7 @@ permissions:
   contents: write
 
 env:
-  PACKWIZ_COMMIT: c3a6e56882f46459db8ce62a3e5461057cd69085
+  PACKWIZ_COMMIT: dfd8b68a4796c763e25bad50265ea1f1233e24f1
   PACKWIZ_DIR: /tmp/packwiz_artifact
   PACKWIZ: /tmp/packwiz_artifact/packwiz
 
