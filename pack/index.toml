@@ -123,6 +123,10 @@ file = "mods/badstdout.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/barricade.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/barricade.pw.toml.disabled"
 
 [[files]]
