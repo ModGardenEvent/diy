@@ -64,7 +64,7 @@ def main():
 		elif platform_info["type"] == "download_url":
 			platform_info["download_url"] = submission_info["platform"]["download_url"]
 		else:
-			print(f"{mod_id} has an unsupported platform type '{platform["type"]}'")
+			print(f"{mod_id} has an unsupported platform type '{platform['type']}'")
 			continue
 
 		lock_info = lock_data.get(mod_id)  # Might be None
