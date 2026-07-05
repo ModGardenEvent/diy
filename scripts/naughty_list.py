@@ -22,25 +22,29 @@ def naughty_list():
 						comment = lines[j].replace("\n", "").replace("# ", "")
 						submissions_comments[line] = comment
 						break
-	event_id = constants["event"]
+	genre_slug = constants["genre"]
+	event_slug = constants["event"]
 	submissions = dict()
 	users = dict()
-	submissions_url = f"https://api.modgarden.net/v1/event/{event_id}/submissions"
+	submissions_url = f"https://api.modgarden.net/v2/events/{genre_slug}/{event_slug}/submissions"
 	print(submissions_url)
 	for submission in json.loads(requests.get(submissions_url).text):
-		if submission["project"]["slug"] not in submissions_comments:
+		if submission["project"]["metadata"]["type"] != "mod":
 			continue
-		submissions[submission["project"]["slug"]] = submission
-		for user_id in submission["project"]["authors"]:
+		if submission["project"]["metadata"]["mod_id"] not in submissions_comments:
+			continue
+		submissions[submission["project"]["metadata"]["mod_id"]] = submission
+		for user_id in submission["project"]["team"].keys():
 			if user_id not in users:
-				user_url = f'https://api.modgarden.net/v1/user/{user_id}'
+				user_url = f'https://api.modgarden.net/v2/users/{user_id}'
 				print(user_url)
 				users[user_id] = json.loads(requests.get(user_url).text)
 
-	print(f"Naughty list for {event_id}:")
-	for sub_id in sorted(submissions.keys()):
-		submission = submissions[sub_id]
-		print(f"- **{submission["project"]["slug"]}** by {",".join([f"<@{users[x]["discord_id"]}>" for x in submission["project"]["authors"] if users[x]["discord_id"]])} - `{submissions_comments[sub_id]}`")
+	print(f"Naughty list for {event_slug}:")
+	for mod_id in sorted(submissions.keys()):
+		submission = submissions[mod_id]
+		# oh god ↓
+		print(f"- **{submission["project"]["metadata"]["mod_id"]}** by {",".join([(f"<@{users[x]["integrations"]["discord"]["user_id"]}>" if "discord" in users[x]["integrations"] and "user_id" in users[x]["integrations"]["discord"] else users[x]["username"]) for x in submission["project"]["team"].keys() if users[x]["discord_id"]])} - `{submissions_comments[mod_id]}`")
 
 
 if __name__ == "__main__":

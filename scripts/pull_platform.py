@@ -30,30 +30,43 @@ def main():
 	constants = common.jsonc_at_home(common.read_file(constants_file))
 
 	# Download the json
-	event_name = constants["event"]
-	if event_name is None:
-		print(f"{Ansi.WARN}No event name defined. Treating it as if there were zero submissions{Ansi.RESET}")
-		print(f"Was this unintentional? Check {constants_file.relative_to(repo_root)} and make sure it defines \"event\"")
+	genre_slug = constants["genre"]
+	event_slug = constants["event"]
+	if event_slug is None or genre_slug is None:
+		print(f"{Ansi.WARN}No event or genre slug defined. Treating it as if there were zero submissions{Ansi.RESET}")
+		print(f"Was this unintentional? Check {constants_file.relative_to(repo_root)} and make sure it defines \"event\" and \"genre\"")
 		submission_data = []
 	else:
-		submissions_url = f"https://api.modgarden.net/v1/event/{event_name}/submissions"
+		submissions_url = f"https://api.modgarden.net/v2/events/{genre_slug}/{event_slug}/submissions"
 		submission_data = json.loads(requests.get(submissions_url).text)
+
+	for idx, submission in enumerate(submission_data):
+		if submission["project"]["metadata"]["type"] != "mod":
+			submission_data.pop(idx)
 
 	# Update the lock file
 	# Read the needed files and transform the submission data into a dict where the ids are keys
 	lock_data: SubmissionLockfileFormat = json.loads(common.read_file(submission_lock_file)) if submission_lock_file.exists() else {}
-	submissions_by_id = {s["project"]["slug"]: s for s in submission_data}
+	submissions_by_mod_id = {s["project"]["metadata"]["mod_id"]: s for s in submission_data}
 
 	# Remove stale data
-	lock_data = {k: v for k, v in lock_data.items() if (k in submissions_by_id)}
+	lock_data = {k: v for k, v in lock_data.items() if (k in submissions_by_mod_id)}
 
 	# Loop through all submissions
 	rate_limit = common.Ratelimiter(1)
-	for mod_id in submissions_by_id:
-		submission_info = submissions_by_id[mod_id]
+	for mod_id in submissions_by_mod_id:
+		submission_info = submissions_by_mod_id[mod_id]
 		platform_info = dict()
-		platform_info["version_id"] = submission_info["modrinth_version_id"]
-		platform_info["project_id"] = submission_info["project"]["modrinth_id"]
+		platform_info["type"] = submission_info["platform"]["type"]
+		if platform_info["type"] == "modrinth":
+			platform_info["version_id"] = submission_info["platform"]["version_id"]
+			platform_info["project_id"] = submission_info["platform"]["project_id"]
+		elif platform_info["type"] == "download_url":
+			platform_info["download_url"] = submission_info["platform"]["download_url"]
+		else:
+			print(f"{mod_id} has an unsupported platform type '{platform["type"]}'")
+			continue
+
 		lock_info = lock_data.get(mod_id)  # Might be None
 		submission_hash = hashlib.sha256(json.dumps(platform_info, sort_keys=True).encode("utf-8")).digest().hex()
 		# If the platform info changes we need to update the lock data
@@ -78,22 +91,10 @@ def main():
 
 				# Install the mod into the temporary packwiz pack
 				rate_limit.limit()
-				mod_type = {
-					"version_id": platform_info["version_id"],
-					"project_id": platform_info["project_id"]
-				}
-				# mod_type = platform_info.get("platform")
-				# if mod_type == None:
-				# 	raise Error(f"{mod_id}'s platform info is null")
-				# elif mod_type.get("type") == "modrinth":
-				# 	if mod_type["version_id"] != None:
-				# 		subprocess.run([packwiz, "modrinth", "install", "--project-id", mod_type["project_id"], "--version-id", mod_type["version_id"], "-y"])
-				# elif mod_type.get("type") == "other":
-				# 	if mod_type["download_url"] != None:
-				# 		subprocess.run([packwiz, "url", "add", mod_id, mod_type["download_url"]])
-				# else:
-				# 	raise Error(f"Invalid platform type {mod_type}")
-				subprocess.run([packwiz, "modrinth", "install", "--project-id", mod_type["project_id"], "--version-id", mod_type["version_id"], "-y"])
+				if platform_info["type"] == "modrinth":
+					subprocess.run([packwiz, "modrinth", "install", "--project-id", platform_info["project_id"], "--version-id", platform_info["version_id"], "-y"])
+				elif platform_info["type"] == "download_url":
+					subprocess.run([packwiz, "url", "add", mod_id, platform_info["download_url"], "-y"])
 
 				# Now lets see which files packwiz thought we should download
 				files = {}
@@ -113,8 +114,8 @@ def main():
 	with open(submission_lock_file, "w") as f:
 		f.write(json.dumps(lock_data, indent='\t', sort_keys=True))
 
-	# Make it clear that this script didn't really do anything if event_name is null
-	if event_name == None:
+	# Make it clear that this script didn't really do anything if event_slug or genre_slug are null
+	if event_slug == None or genre_slug == None:
 		sys.exit(1)
 
 

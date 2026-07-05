@@ -1,10 +1,9 @@
 {
-    // The name used for pulling from Mod Garden's platform api
-    "event": "mod-garden/diy",
+    // The names used for pulling from Mod Garden's API
+    "genre":"mod-garden",
+    "event": "diy",
     // The subdirectory in https://github.com/ModGardenEvent/art used for pulling the icon
     "art_id": "mod-garden/diy",
-	// The type of this event
-	"event_type": "mod-garden",
 
     // Central definition of colours
     // This is a freeform key-value field. Values prefixed with an underscore are depended upon by scripts
