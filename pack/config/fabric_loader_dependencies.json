@@ -1,7 +1,32 @@
 {
 	"version": 1,
 	"overrides": {
+		"badstdout": {
+			"-depends": {
+				"minecraft": ""
+			}
+		},
 		"area_lib": {
+			"-depends": {
+				"minecraft": ""
+			}
+		},
+		"area_tools": {
+			"-depends": {
+				"minecraft": ""
+			}
+		},
+		"controlling": {
+			"-depends": {
+				"minecraft": ""
+			}
+		},
+		"searchables": {
+			"-depends": {
+				"minecraft": ""
+			}
+		},
+		"lithium": {
 			"-depends": {
 				"minecraft": ""
 			}

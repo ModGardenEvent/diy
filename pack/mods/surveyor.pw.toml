@@ -1,15 +1,13 @@
-name = "surveyor"
-filename = "surveyor-1.0.0-alpha.10+1.21.5.jar"
+name = "Surveyor Map Framework"
+filename = "surveyor-1.2.2+26.1.jar"
 side = "both"
 
 [download]
-url = "https://github.com/ModGardenEvent/surveyor/releases/download/v1.0.0-alpha.10%2B1.21.5/surveyor-1.0.0-alpha.10%2B1.21.5.jar"
-hash-format = "sha256"
-hash = "40ed41cee4de0753606780d8301f8647b20d7d5df8e8cdd436a8688e4ccdd9eb"
+url = "https://cdn.modrinth.com/data/4KjqhPc9/versions/WTxvy5St/surveyor-1.2.2%2B26.1.jar"
+hash-format = "sha512"
+hash = "920385476e4ce21b8a93111207e157ea80cb5a8b1c4178f4b139f619839465e37a384cfa7256ed6ba24e920c9eb3247ca4d34d6ec0a7d41845442875496994b3"
 
 [update]
-[update.github]
-branch = "1.21.5"
-regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
-slug = "ModGardenEvent/surveyor"
-tag = "v1.0.0-alpha.10+1.21.5"
+[update.modrinth]
+mod-id = "4KjqhPc9"
+version = "WTxvy5St"

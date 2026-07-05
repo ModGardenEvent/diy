@@ -1,34 +1,32 @@
 {
-    // The name used for pulling from Mod Garden's platform api
-    "event": "mod-garden-nature",
+    // The names used for pulling from Mod Garden's API
+    "genre":"mod-garden",
+    "event": "diy",
     // The subdirectory in https://github.com/ModGardenEvent/art used for pulling the icon
-    "art_id": "mod-garden/nature",
-	// The type of this event
-	"event_type": "mod-garden",
+    "art_id": "mod-garden/diy",
 
     // Central definition of colours
     // This is a freeform key-value field. Values prefixed with an underscore are depended upon by scripts
     "colours": {
-        "primary": "#e8975d",
-        "secondary": "#7a5c47",
-        "background": "#6b8262",
-        "background_secondary": "#677863",
+        "primary": "#ff5ee7",
+        "secondary": "#7a4a7d",
+        "background": "#28242e",
 
         // Unsup colours. See https://git.sleeping.town/unascribed/unsup/wiki/Config-format
         "_unsup_background": ".background",
         // Colour of the title text
-        "_unsup_title": "#c4ffa6",
+        "_unsup_title": "#ffffff",
         // Colour of the subtitle text. Is usually shaded to match the background slightly
-        "_unsup_subtitle": "#c4ffa6",
+        "_unsup_subtitle": "#ffffff",
         // The color of the filled portion of the progress bar and wheel
         "_unsup_progress": ".primary",
         // The color of the non-filled portion of the progress bar
         "_unsup_progress_track": ".secondary",
         // The color of the text in a dialog
-        "_unsup_dialog": "#c4ffa6",
+        "_unsup_dialog": "#ffffff",
         // The background color of buttons. Please ensure this has enough contrast with the button text!
         "_unsup_button": ".primary",
         // The color of text in buttons
-        "_unsup_button_text": "#544a45"
+        "_unsup_button_text": "#000000"
     }
 }

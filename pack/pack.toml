@@ -1,4 +1,4 @@
-name = "Mod Garden: Nature"
+name = "Mod Garden: DIY"
 author = "Mod Garden"
 version = "0.1.0"
 pack-format = "packwiz:1.1.0"
@@ -8,13 +8,12 @@ file = "index.toml"
 hash-format = "sha256"
 
 [versions]
-fabric = "0.17.2"
-minecraft = "1.21.5"
-unsup = "1.1.6"
-unsup-experimental = "1.2.0-pre1"
-unsup-stable = "1.1.6"
+fabric = "0.19.1"
+minecraft = "26.1.2"
+unsup = "1.2.0"
+unsup-experimental = "1.2.0"
+unsup-stable = "1.2.0"
 
 [options]
-acceptable-game-versions = ["1.21.4"]
 datapack-folder = "resources/datapack/required"
 no-internal-hashes = true

@@ -21,7 +21,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  PACKWIZ_COMMIT: 241f24b550f6fe838913a56bdd58bac2fc53254a
+  PACKWIZ_COMMIT: dfd8b68a4796c763e25bad50265ea1f1233e24f1
   PACKWIZ_DIR: /tmp/packwiz_artifact
   PACKWIZ: /tmp/packwiz_artifact/packwiz
 
@@ -101,7 +101,7 @@ jobs:
       - uses: actions/setup-java@v4
         with:
           distribution: 'temurin' # See 'Supported distributions' for available options
-          java-version: '21'
+          java-version: '25'
       - name: Test main pack
         run: python scripts/run_test.py
       - name: Test test pack

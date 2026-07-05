@@ -1,15 +1,8 @@
 name = "flowerbed"
-filename = "flowerbed-0.6.3+1.21.5.jar"
+filename = "flowerbed-0.8.0+26.1.1.jar"
 side = "both"
 
 [download]
-url = "https://github.com/ModGardenEvent/flowerbed/releases/download/v0.6.3/flowerbed-0.6.3%2B1.21.5.jar"
+url = "https://github.com/ModGardenEvent/flowerbed/releases/download/v0.8.0/flowerbed-0.8.0+26.1.1.jar"
 hash-format = "sha256"
-hash = "cb50f6e6234350fed6620eb4ef6cb57db18cca3b598664df78c12e61cdb49cc0"
-
-[update]
-[update.github]
-branch = "1.21.5"
-regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
-slug = "ModGardenEvent/flowerbed"
-tag = "v0.6.3"
+hash = "d050ebdae0d7ebff7ca665e30d76693d10182c3233dc2e3e75714470122fa215"

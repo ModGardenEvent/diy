@@ -91,14 +91,12 @@ file = "config/waila/waila_plugins.json5"
 file = "config/yosbr/options.txt"
 
 [[files]]
-file = "mods/architectury-api.pw.toml"
+file = "mods/area-tools.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/area_lib-0.4.0+1.21.8.jar"
-
-[[files]]
-file = "mods/area_tools-0.2.0+1.21.5.modgarden.4.jar"
+file = "mods/area_lib.pw.toml"
+metafile = true
 
 [[files]]
 file = "mods/armorstandeditor.pw.toml"
@@ -125,12 +123,10 @@ file = "mods/badstdout.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/barricade.pw.toml"
-metafile = true
+file = "mods/barricade.pw.toml.disabled"
 
 [[files]]
-file = "mods/barriers-dont-block-rain.pw.toml"
-metafile = true
+file = "mods/barriers-dont-block-rain.pw.toml.disabled"
 
 [[files]]
 file = "mods/better-narrator-error.pw.toml"
@@ -138,6 +134,10 @@ metafile = true
 
 [[files]]
 file = "mods/bobby.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cantilever.pw.toml"
 metafile = true
 
 [[files]]
@@ -149,10 +149,11 @@ file = "mods/controlling.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/ears-platform-modern-fabric-2.0.0-modgardenfest.1.jar"
+file = "mods/ears.pw.toml"
+metafile = true
 
 [[files]]
-file = "mods/eiv.pw.toml"
+file = "mods/enchanteds-sodium-options.pw.toml"
 metafile = true
 
 [[files]]
@@ -168,12 +169,11 @@ file = "mods/ferrite-core.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/floralie.pw.toml"
+file = "mods/flowerbed.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/flowerbed.pw.toml"
-metafile = true
+file = "mods/glowcase-2.4.0+1.21.7.jar"
 
 [[files]]
 file = "mods/hoofprint.pw.toml"
@@ -188,10 +188,6 @@ file = "mods/item-descriptions.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/jamlib.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/lambdabettergrass.pw.toml"
 metafile = true
 
@@ -200,11 +196,14 @@ file = "mods/lithium.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/lmft.pw.toml"
-metafile = true
+file = "mods/lmft.pw.toml.disabled"
 
 [[files]]
-file = "mods/map_utils-2.3.1+1.21.5.modgarden.1.jar"
+file = "mods/map_utils-2.3.2+26.1.jar"
+
+[[files]]
+file = "mods/mcqoy.pw.toml"
+metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
@@ -223,16 +222,14 @@ file = "mods/placeholder-api.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/player-roles.pw.toml"
+file = "mods/player-roles-1.8.1+26.1-mod-garden.jar"
+
+[[files]]
+file = "mods/rrv.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/scattered-shards.pw.toml"
-metafile = true
+file = "mods/scattered-shards-1.9.3+1.21.7.jar"
 
 [[files]]
 file = "mods/searchables.pw.toml"
@@ -251,8 +248,7 @@ file = "mods/sodium.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/spark.pw.toml"
-metafile = true
+file = "mods/spark.pw.toml.disabled"
 
 [[files]]
 file = "mods/spawnanywhere.pw.toml"
@@ -275,23 +271,16 @@ file = "mods/surveyor.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tmyk.pw.toml"
-metafile = true
+file = "mods/worldedit-client.toml.disabled"
 
 [[files]]
-file = "mods/variantlib_nature-1.0.3+1.21.5.jar"
+file = "mods/worldedit-cui.pw.toml.disabled"
 
 [[files]]
-file = "mods/worldedit-client.toml"
-metafile = true
+file = "mods/worldedit-fabric-mc26.1-7.4.3-SNAPSHOT-dist.jar"
 
 [[files]]
-file = "mods/worldedit-cui.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/worldedit-server.pw.toml"
-metafile = true
+file = "mods/worldedit-server.pw.toml.disabled"
 
 [[files]]
 file = "mods/wthit.pw.toml"
@@ -381,40 +370,10 @@ file = "resources/common/required/mg_shards/data/scattered_shards/shard_type/typ
 file = "resources/common/required/mg_shards/pack.mcmeta"
 
 [[files]]
-file = "resources/datapack/required/bigger_fish_shard/data/modgarden/advancement/trigger/catch_fish.json"
-
-[[files]]
-file = "resources/datapack/required/bigger_fish_shard/data/modgarden/function/trigger/catch_fish.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/bigger_fish_shard/pack.mcmeta"
-
-[[files]]
-file = "resources/datapack/required/disable_mooshroom_shearing_tables/data/minecraft/loot_table/shearing/mooshroom/brown.json"
-
-[[files]]
-file = "resources/datapack/required/disable_mooshroom_shearing_tables/data/minecraft/loot_table/shearing/mooshroom/red.json"
-
-[[files]]
-file = "resources/datapack/required/disable_mooshroom_shearing_tables/data/variantlib_nature/loot_table/shearing/mooshroom/white.json"
-
-[[files]]
-file = "resources/datapack/required/disable_mooshroom_shearing_tables/pack.mcmeta"
-
-[[files]]
-file = "resources/datapack/required/variantlib_shard/data/modgarden/advancement/trigger/breed_lop_eared_rabbit.json"
-
-[[files]]
-file = "resources/datapack/required/variantlib_shard/data/modgarden/function/trigger/breed_lop_eared_rabbit.mcfunction"
-
-[[files]]
-file = "resources/datapack/required/variantlib_shard/pack.mcmeta"
-
-[[files]]
 file = "resources/resourcepack/required/Unsanded-1.1.1-custom.zip"
 
 [[files]]
-file = "resources/resourcepack/required/VanillaTweaks_r593684_MC1.21.x.zip"
+file = "resources/resourcepack/required/VanillaTweaks_r250899_MC26.1.x.zip"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/glowcase/lang/en_us.json"
@@ -676,9 +635,6 @@ file = "server-icon.png"
 
 [[files]]
 file = "server.properties"
-
-[[files]]
-file = "servers.dat"
 
 [[files]]
 file = "unsup.toml"

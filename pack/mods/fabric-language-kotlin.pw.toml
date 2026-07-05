@@ -1,13 +1,13 @@
 name = "Fabric Language Kotlin"
-filename = "fabric-language-kotlin-1.13.3+kotlin.2.1.21.jar"
+filename = "fabric-language-kotlin-1.13.10+kotlin.2.3.20.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Ha28R6CL/versions/iqWDz8qt/fabric-language-kotlin-1.13.3%2Bkotlin.2.1.21.jar"
+url = "https://cdn.modrinth.com/data/Ha28R6CL/versions/21TRTKmh/fabric-language-kotlin-1.13.10%2Bkotlin.2.3.20.jar"
 hash-format = "sha512"
-hash = "805eb96067560fa8acc8fcc7dbfba4ad8eed1a2bc9b46566e184f122533fdff844288f3df635762e1af927a4efe8989e9f11007a24bcdc73a32fc2dbebd720c3"
+hash = "e4eaf7594de08eb4f3ea8af2e939f3ee61d07597afb4d5f420c3fbadcb381c7bbad4b1afd5919b3087b73ed9636fb018b1c978858a112bd4f6acdcb42e9eedaa"
 
 [update]
 [update.modrinth]
 mod-id = "Ha28R6CL"
-version = "iqWDz8qt"
+version = "21TRTKmh"

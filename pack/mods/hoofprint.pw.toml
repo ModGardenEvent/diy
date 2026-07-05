@@ -1,15 +1,13 @@
-name = "hoofprint"
-filename = "hoofprint-0.8.0-alpha.9+1.21.jar"
+name = "Hoofprint"
+filename = "hoofprint-1.3.0+26.1.jar"
 side = "client"
 
 [download]
-url = "https://github.com/ModGardenEvent/hoofprint/releases/download/v0.8.0-alpha.9%2B1.21.5/hoofprint-0.8.0-alpha.9%2B1.21.jar"
-hash-format = "sha256"
-hash = "e548c594c5ac20d986d235bcff09fb92b03bdda237279b208c41e43b424f3021"
+url = "https://cdn.modrinth.com/data/8O6iJpuJ/versions/56RNymNK/hoofprint-1.3.0%2B26.1.jar"
+hash-format = "sha512"
+hash = "2d0b59a04657766030678ae8e3c77650b25d991ca5ec4cffe31b132f08f56770ae4cc5789c79293c217d5dcc556433529691e5d8756423a5ba63e19cbedc257b"
 
 [update]
-[update.github]
-branch = "1.21.5"
-regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
-slug = "ModGardenEvent/hoofprint"
-tag = "v0.8.0-alpha.9+1.21.5"
+[update.modrinth]
+mod-id = "8O6iJpuJ"
+version = "56RNymNK"
