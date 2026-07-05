@@ -1,0 +1,13 @@
+name = "Frappé"
+filename = "frappe-1.0.0-alpha.8.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZDxPBmRP/versions/BcpWZ2jU/frappe-1.0.0-alpha.8.jar"
+hash-format = "sha512"
+hash = "9131d876ff4df1f792a01e89669e38810296b256971b886493f6c94693b0e4d0037ac87e37b35b3b5d066e5bc8a27b503b0d4ce2c72142645ca6771a4062d6e8"
+
+[update]
+[update.modrinth]
+mod-id = "ZDxPBmRP"
+version = "BcpWZ2jU"
