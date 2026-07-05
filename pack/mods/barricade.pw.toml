@@ -1,0 +1,13 @@
+name = "Barricade"
+filename = "barricade-fabric-3.0.0-beta.4+26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kRSR7ZEj/versions/dNwaDelG/barricade-fabric-3.0.0-beta.4%2B26.1.2.jar"
+hash-format = "sha512"
+hash = "392b1786bc96d5b77024e3ecc81ac6327e8b36f029d942dd76e00330d672d8c32926939e88d6fca5c561dd381213b4897c007960ac3ae4425de5225b46e813ba"
+
+[update]
+[update.modrinth]
+mod-id = "kRSR7ZEj"
+version = "dNwaDelG"
