@@ -14,19 +14,49 @@
 		},
 		"key": "411ac22f0c644728d685f60a8e5e12f89ee11dd7808a915041a0d7c8145d43e3"
 	},
+	"infinidye": {
+		"files": {
+			"mods/infinidye.pw.toml": {
+				"download": {
+					"hash": "7e6e856396aaacc30d8c49d1af3d8ca1c625a15111645d4b3be2c80d2299160b",
+					"hash-format": "sha256",
+					"url": "https://github.com/sylv256/infinidye/releases/download/v1.0.0/infinidye-1.0.0.jar"
+				},
+				"filename": "infinidye-1.0.0.jar",
+				"name": "infinidye",
+				"side": "both"
+			}
+		},
+		"key": "33f5017ce2c71af999ebe7d60d6208f976670d81696a12ab6b31a222cf482405"
+	},
+	"panacea": {
+		"files": {
+			"mods/panacea.pw.toml": {
+				"download": {
+					"hash": "0b8214f0632ada3d8ecea536c8b3e9aef5b0cfd6aa7bcf21d5594492828ff6c6",
+					"hash-format": "sha256",
+					"url": "https://git.greenhouse.lgbt/Modding/panacea/releases/download/0.1.0-alpha.1+26.1.x/panacea-0.1.0-alpha.1+26.1.x.jar"
+				},
+				"filename": "panacea-0.1.0-alpha.1+26.1.x.jar",
+				"name": "panacea",
+				"side": "both"
+			}
+		},
+		"key": "bb804a298ad6bb514d081ce86bc998b83848b0081716113cbacbb655e1b50537"
+	},
 	"volucraft": {
 		"files": {
 			"mods/volucraft.pw.toml": {
 				"download": {
-					"hash": "9491ae697565a0921e95032eb311cef6d0cb61d9295f319a367845338f8c679c8498d66e2e0126f612715bff2debfa7aca6dd7be074ea9429ac1b8ad2e97015a",
+					"hash": "c765578e7a3b7cba294ae96b5b51b475b23f25f2fc3f1c99903eb162677a795a6ce0da959273b3a398b8604e63bb546bb8f9b661947f5cbac011de782931117b",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/mNvjDpKH/versions/kYqJ59KC/volucraft-0.0.5%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/mNvjDpKH/versions/F9JOGRGA/volucraft-0.0.6%2B26.1.2.jar"
 				},
-				"filename": "volucraft-0.0.5+26.1.2.jar",
+				"filename": "volucraft-0.0.6+26.1.2.jar",
 				"name": "Volucraft",
 				"side": "both"
 			}
 		},
-		"key": "ae8f87772e5ed00299fe14d254456c87cd50d884d0088f656257898ffec126d7"
+		"key": "7fe6c3048c6b41a7cb8db7502ff28ab4e5ea5ffecc383cdd4c4242b8a0840304"
 	}
 }
