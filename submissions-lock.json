@@ -1,2 +1,32 @@
-{}
-
+{
+	"hopeful_evenly": {
+		"files": {
+			"mods/hopeful-evenly.pw.toml": {
+				"download": {
+					"hash": "ed6a152801ebbf2e16e0df8f1217de5c719e596dff461edcdfb3482d4fa8aebf3095e195f1a266cb23bba8aa77695d24ee708914aea639bbef57dfda0fd97ed0",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/oiFMAIKR/versions/Ak7t6iag/hopeful_evenly-26.0.1.jar"
+				},
+				"filename": "hopeful_evenly-26.0.1.jar",
+				"name": "Hopeful: Evenly",
+				"side": "both"
+			}
+		},
+		"key": "411ac22f0c644728d685f60a8e5e12f89ee11dd7808a915041a0d7c8145d43e3"
+	},
+	"volucraft": {
+		"files": {
+			"mods/volucraft.pw.toml": {
+				"download": {
+					"hash": "9491ae697565a0921e95032eb311cef6d0cb61d9295f319a367845338f8c679c8498d66e2e0126f612715bff2debfa7aca6dd7be074ea9429ac1b8ad2e97015a",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/mNvjDpKH/versions/kYqJ59KC/volucraft-0.0.5%2B26.1.2.jar"
+				},
+				"filename": "volucraft-0.0.5+26.1.2.jar",
+				"name": "Volucraft",
+				"side": "both"
+			}
+		},
+		"key": "ae8f87772e5ed00299fe14d254456c87cd50d884d0088f656257898ffec126d7"
+	}
+}
