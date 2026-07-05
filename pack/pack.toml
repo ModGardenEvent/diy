@@ -8,7 +8,7 @@ file = "index.toml"
 hash-format = "sha256"
 
 [versions]
-fabric = "0.19.1"
+fabric = "0.19.3"
 minecraft = "26.1.2"
 unsup = "1.2.0"
 unsup-experimental = "1.2.0"
