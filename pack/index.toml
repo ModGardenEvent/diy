@@ -184,6 +184,10 @@ metafile = true
 file = "mods/glowcase-2.4.0+1.21.7.jar"
 
 [[files]]
+file = "mods/glowcase.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/hoofprint.pw.toml"
 metafile = true
 
