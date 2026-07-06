@@ -2,5 +2,6 @@
 # Each line should contain a submission id. The script will warn you
 # if the id does not refer to a submission
 
-digamma # Using Client on server side
+# Using Client on server side
+digamma
 
