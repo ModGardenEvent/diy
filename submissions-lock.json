@@ -3,16 +3,16 @@
 		"files": {
 			"mods/caustics.pw.toml": {
 				"download": {
-					"hash": "7fab728eebd65e74dcfb4dbc8cadb24c259d1f54f601ec06b86349b15093fd7b",
+					"hash": "0386366596b845b333698b750508361206ebdc30dd1f99790a53bfeda9ad5339",
 					"hash-format": "sha256",
-					"url": "https://github.com/Ramixin/Caustics/releases/download/0.0.0/Caustics-0.0.0.jar"
+					"url": "https://github.com/Ramixin/Caustics/releases/download/0.0.1/Caustics-0.0.1.jar"
 				},
-				"filename": "Caustics-0.0.0.jar",
+				"filename": "Caustics-0.0.1.jar",
 				"name": "caustics",
 				"side": "both"
 			}
 		},
-		"key": "d9a0b5e44fa4b553bda9804cdfbfa63c0500c9dd9ec59e8f99ec7b404cf8b74a"
+		"key": "b893461a1493d3e7091d2e9532365cd31f09059ecbeb2ef1b01d3fc7a68b1398"
 	},
 	"hopeful_evenly": {
 		"files": {
