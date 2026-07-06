@@ -14,6 +14,36 @@
 		},
 		"key": "b893461a1493d3e7091d2e9532365cd31f09059ecbeb2ef1b01d3fc7a68b1398"
 	},
+	"digamma": {
+		"files": {
+			"mods/digamma.pw.toml": {
+				"download": {
+					"hash": "53fa330c4888056e93bcd9e083b51ea910ab92e5ddcba371e2f62c7c6e9af7b7",
+					"hash-format": "sha256",
+					"url": "https://github.com/AutumnalModding/DigammaProject/releases/download/1.0.0/digamma-1.0.0.jar"
+				},
+				"filename": "digamma-1.0.0.jar",
+				"name": "digamma",
+				"side": "both"
+			}
+		},
+		"key": "254a788d997df13af5670535d4329980825d9f462059268b8fd35be95225f86c"
+	},
+	"glim": {
+		"files": {
+			"mods/glim.pw.toml": {
+				"download": {
+					"hash": "6c2daca70c03d32a88c635e30187f2ff71931536cdf730a1fcd36b0b779a5f40",
+					"hash-format": "sha256",
+					"url": "https://git.greenhouse.lgbt/Modding/glim/releases/download/v0.1.0/glim-0.1.0.jar"
+				},
+				"filename": "glim-0.1.0.jar",
+				"name": "glim",
+				"side": "both"
+			}
+		},
+		"key": "7b701ee8fdc0c43115d5e75641d88f5d76b048a1ad86f9d11cf726cacd40c4f6"
+	},
 	"hopeful_evenly": {
 		"files": {
 			"mods/hopeful-evenly.pw.toml": {
@@ -63,15 +93,15 @@
 		"files": {
 			"mods/volucraft.pw.toml": {
 				"download": {
-					"hash": "c765578e7a3b7cba294ae96b5b51b475b23f25f2fc3f1c99903eb162677a795a6ce0da959273b3a398b8604e63bb546bb8f9b661947f5cbac011de782931117b",
+					"hash": "566b8c65a189c934398bb63810781ce2897c76d8e620f0b61e7837c5729ed0142a74b54217b09bd01bbb793e6077aaabbe5d682d48f4d17b82fa1de84acd309d",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/mNvjDpKH/versions/F9JOGRGA/volucraft-0.0.6%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/mNvjDpKH/versions/Swk7R8oz/volucraft-0.0.7%2B26.1.2.jar"
 				},
-				"filename": "volucraft-0.0.6+26.1.2.jar",
+				"filename": "volucraft-0.0.7+26.1.2.jar",
 				"name": "Volucraft",
 				"side": "both"
 			}
 		},
-		"key": "7fe6c3048c6b41a7cb8db7502ff28ab4e5ea5ffecc383cdd4c4242b8a0840304"
+		"key": "f0e2eb15aa4dc1bcb4ba00524edb7ea5da9c4958b8c831daf102e2249c24ec9b"
 	}
 }
