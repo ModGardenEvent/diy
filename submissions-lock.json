@@ -18,31 +18,31 @@
 		"files": {
 			"mods/digamma.pw.toml": {
 				"download": {
-					"hash": "53fa330c4888056e93bcd9e083b51ea910ab92e5ddcba371e2f62c7c6e9af7b7",
+					"hash": "d5d44272291fd3e3f2492fc516061a46c779009ed2caf213a9d8eec333fe0911",
 					"hash-format": "sha256",
-					"url": "https://github.com/AutumnalModding/DigammaProject/releases/download/1.0.0/digamma-1.0.0.jar"
+					"url": "https://github.com/AutumnalModding/DigammaProject/releases/download/1.1.0/digamma-1.1.0.jar"
 				},
-				"filename": "digamma-1.0.0.jar",
+				"filename": "digamma-1.1.0.jar",
 				"name": "digamma",
 				"side": "both"
 			}
 		},
-		"key": "254a788d997df13af5670535d4329980825d9f462059268b8fd35be95225f86c"
+		"key": "6eda4d74b1455cc89f596bd5cb939add813f8549727adea52cc41ecc9102b6b2"
 	},
 	"glim": {
 		"files": {
 			"mods/glim.pw.toml": {
 				"download": {
-					"hash": "6c2daca70c03d32a88c635e30187f2ff71931536cdf730a1fcd36b0b779a5f40",
+					"hash": "0fb384b8dc475500b05a6c4e771f26d90a8be47d7fc388050db064f172b0f83f",
 					"hash-format": "sha256",
-					"url": "https://git.greenhouse.lgbt/Modding/glim/releases/download/v0.1.0/glim-0.1.0.jar"
+					"url": "https://git.greenhouse.lgbt/Modding/glim/releases/download/v0.1.1/glim-0.1.1.jar"
 				},
-				"filename": "glim-0.1.0.jar",
+				"filename": "glim-0.1.1.jar",
 				"name": "glim",
 				"side": "both"
 			}
 		},
-		"key": "7b701ee8fdc0c43115d5e75641d88f5d76b048a1ad86f9d11cf726cacd40c4f6"
+		"key": "c2eb8f93c42825cb1a9fb7b5e0dab5edaa17e23bfd802a6c709cf12afbcd2319"
 	},
 	"hopeful_evenly": {
 		"files": {
@@ -63,16 +63,16 @@
 		"files": {
 			"mods/infinidye.pw.toml": {
 				"download": {
-					"hash": "7e6e856396aaacc30d8c49d1af3d8ca1c625a15111645d4b3be2c80d2299160b",
+					"hash": "abf8e2d5ea701a8c6b21db30a00ecda3c469b92f14791eb5b62f9191c753337e",
 					"hash-format": "sha256",
-					"url": "https://github.com/sylv256/infinidye/releases/download/v1.0.0/infinidye-1.0.0.jar"
+					"url": "https://github.com/sylv256/infinidye/releases/download/v1.0.1/infinidye-1.0.1.jar"
 				},
-				"filename": "infinidye-1.0.0.jar",
+				"filename": "infinidye-1.0.1.jar",
 				"name": "infinidye",
 				"side": "both"
 			}
 		},
-		"key": "33f5017ce2c71af999ebe7d60d6208f976670d81696a12ab6b31a222cf482405"
+		"key": "80ce9dd0839bbad1a9d1a756b8c5f9c4a1a868f4763d83f8335ebbfcaeab6505"
 	},
 	"panacea": {
 		"files": {
