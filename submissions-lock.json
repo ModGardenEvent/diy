@@ -3,16 +3,16 @@
 		"files": {
 			"mods/caustics.pw.toml": {
 				"download": {
-					"hash": "0386366596b845b333698b750508361206ebdc30dd1f99790a53bfeda9ad5339",
+					"hash": "02fea7ac5fe3e32ea784c77560caf5f74f0e54ebf0564cdd0040934b82ded7bf",
 					"hash-format": "sha256",
-					"url": "https://github.com/Ramixin/Caustics/releases/download/0.0.1/Caustics-0.0.1.jar"
+					"url": "https://github.com/Ramixin/Caustics/releases/download/0.0.2/Caustics-0.0.2.jar"
 				},
-				"filename": "Caustics-0.0.1.jar",
+				"filename": "Caustics-0.0.2.jar",
 				"name": "caustics",
 				"side": "both"
 			}
 		},
-		"key": "b893461a1493d3e7091d2e9532365cd31f09059ecbeb2ef1b01d3fc7a68b1398"
+		"key": "9f6d6f79c2be303922675a6526e361fce99b1e12c46509a4b8ab665000659622"
 	},
 	"digamma": {
 		"files": {
@@ -78,16 +78,16 @@
 		"files": {
 			"mods/panacea.pw.toml": {
 				"download": {
-					"hash": "0b8214f0632ada3d8ecea536c8b3e9aef5b0cfd6aa7bcf21d5594492828ff6c6",
+					"hash": "6ce87d5f53f2293b8f7c985ef2d5d81c7331d3aba2a0095f80bc0ab50e1e8353",
 					"hash-format": "sha256",
-					"url": "https://git.greenhouse.lgbt/Modding/panacea/releases/download/0.1.0-alpha.1+26.1.x/panacea-0.1.0-alpha.1+26.1.x.jar"
+					"url": "https://git.greenhouse.lgbt/Modding/panacea/releases/download/0.1.0-alpha.2+26.1.x/panacea-0.1.0-alpha.2+26.1.x.jar"
 				},
-				"filename": "panacea-0.1.0-alpha.1+26.1.x.jar",
+				"filename": "panacea-0.1.0-alpha.2+26.1.x.jar",
 				"name": "panacea",
 				"side": "both"
 			}
 		},
-		"key": "bb804a298ad6bb514d081ce86bc998b83848b0081716113cbacbb655e1b50537"
+		"key": "ef556b7bee7df83b193d0516b943714acadabae12ff5da19ed8c6ae31461a2ee"
 	},
 	"volucraft": {
 		"files": {
