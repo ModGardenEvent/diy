@@ -18,16 +18,16 @@
 		"files": {
 			"mods/digamma.pw.toml": {
 				"download": {
-					"hash": "d5d44272291fd3e3f2492fc516061a46c779009ed2caf213a9d8eec333fe0911",
+					"hash": "ae1a2ef8a33ac47000c7ac07082b5a2f79f582833114b21dec00f66c8bf35002",
 					"hash-format": "sha256",
-					"url": "https://github.com/AutumnalModding/DigammaProject/releases/download/1.1.0/digamma-1.1.0.jar"
+					"url": "https://github.com/AutumnalModding/DigammaProject/releases/download/1.1.1/digamma-1.1.1.jar"
 				},
-				"filename": "digamma-1.1.0.jar",
+				"filename": "digamma-1.1.1.jar",
 				"name": "digamma",
 				"side": "both"
 			}
 		},
-		"key": "6eda4d74b1455cc89f596bd5cb939add813f8549727adea52cc41ecc9102b6b2"
+		"key": "7428cb5b9bbf95f8663da61ec35cd0336446e0b3865c944c40a4fba6ce7ef034"
 	},
 	"glim": {
 		"files": {
