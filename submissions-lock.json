@@ -78,30 +78,30 @@
 		"files": {
 			"mods/panacea.pw.toml": {
 				"download": {
-					"hash": "6ce87d5f53f2293b8f7c985ef2d5d81c7331d3aba2a0095f80bc0ab50e1e8353",
+					"hash": "be0ccbce5d0db79812345474af02bb3c873aed3fc2aee731cc0b54eb948b5a4c",
 					"hash-format": "sha256",
-					"url": "https://git.greenhouse.lgbt/Modding/panacea/releases/download/0.1.0-alpha.2+26.1.x/panacea-0.1.0-alpha.2+26.1.x.jar"
+					"url": "https://git.greenhouse.lgbt/Modding/panacea/releases/download/0.1.0-alpha.3+26.1.x/panacea-0.1.0-alpha.3+26.1.x.jar"
 				},
-				"filename": "panacea-0.1.0-alpha.2+26.1.x.jar",
+				"filename": "panacea-0.1.0-alpha.3+26.1.x.jar",
 				"name": "panacea",
 				"side": "both"
 			}
 		},
-		"key": "ef556b7bee7df83b193d0516b943714acadabae12ff5da19ed8c6ae31461a2ee"
+		"key": "8c73e921b19f8a929e11bd8f33ff2d4a826aba97c0fbd21064092853bb8ec71d"
 	},
 	"volucraft": {
 		"files": {
 			"mods/volucraft.pw.toml": {
 				"download": {
-					"hash": "566b8c65a189c934398bb63810781ce2897c76d8e620f0b61e7837c5729ed0142a74b54217b09bd01bbb793e6077aaabbe5d682d48f4d17b82fa1de84acd309d",
+					"hash": "d8e58f8eb9dafc5f1aa1ffd8e20a4dd35972c1905bc665c291a4bb558d8ec5a5c2ddde1179e62844733ded165ac730684e4927a42b1e49795849ab2fd01fdcc1",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/mNvjDpKH/versions/Swk7R8oz/volucraft-0.0.7%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/mNvjDpKH/versions/FOckGqm0/volucraft-0.0.8%2B26.1.2.jar"
 				},
-				"filename": "volucraft-0.0.7+26.1.2.jar",
+				"filename": "volucraft-0.0.8+26.1.2.jar",
 				"name": "Volucraft",
 				"side": "both"
 			}
 		},
-		"key": "f0e2eb15aa4dc1bcb4ba00524edb7ea5da9c4958b8c831daf102e2249c24ec9b"
+		"key": "1dea5f5c22402d03b2828452d9bfeb166cb0a4329e0cf838cb5e95cb4b9357d9"
 	}
 }
