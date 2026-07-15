@@ -3,16 +3,16 @@
 		"files": {
 			"mods/caustics.pw.toml": {
 				"download": {
-					"hash": "02fea7ac5fe3e32ea784c77560caf5f74f0e54ebf0564cdd0040934b82ded7bf",
+					"hash": "399c16a67280e22bc7db3cbcd7ea11bff4b499e808423fd32fdeb12805acfa9c",
 					"hash-format": "sha256",
-					"url": "https://github.com/Ramixin/Caustics/releases/download/0.0.2/Caustics-0.0.2.jar"
+					"url": "https://github.com/Ramixin/Caustics/releases/download/0.0.3/Caustics-0.0.3.jar"
 				},
-				"filename": "Caustics-0.0.2.jar",
+				"filename": "Caustics-0.0.3.jar",
 				"name": "caustics",
 				"side": "both"
 			}
 		},
-		"key": "9f6d6f79c2be303922675a6526e361fce99b1e12c46509a4b8ab665000659622"
+		"key": "37eff6f29dc501f97826775fcf2c0b91740f16becb506d6efb46827ee5fa5398"
 	},
 	"digamma": {
 		"files": {
@@ -33,16 +33,16 @@
 		"files": {
 			"mods/glim.pw.toml": {
 				"download": {
-					"hash": "0fb384b8dc475500b05a6c4e771f26d90a8be47d7fc388050db064f172b0f83f",
-					"hash-format": "sha256",
-					"url": "https://git.greenhouse.lgbt/Modding/glim/releases/download/v0.1.1/glim-0.1.1.jar"
+					"hash": "46160b51f2347d2bfbf4935e8b94921a8d70d3248ffe87a47fae0d930b7e6eaebc5d6b0ff3732694caeebef9aa1a4a511f65950543ff439b1e01a528b58b7f44",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/7zmE3Xnm/versions/pacmQNy6/glim-0.1.1.jar"
 				},
 				"filename": "glim-0.1.1.jar",
-				"name": "glim",
+				"name": "Glim",
 				"side": "both"
 			}
 		},
-		"key": "c2eb8f93c42825cb1a9fb7b5e0dab5edaa17e23bfd802a6c709cf12afbcd2319"
+		"key": "ab4b9a5b82d9178686459b6ef3140c45443857de700611be1330badb2c6c08f7"
 	},
 	"hopeful_evenly": {
 		"files": {
@@ -63,16 +63,16 @@
 		"files": {
 			"mods/infinidye.pw.toml": {
 				"download": {
-					"hash": "abf8e2d5ea701a8c6b21db30a00ecda3c469b92f14791eb5b62f9191c753337e",
-					"hash-format": "sha256",
-					"url": "https://github.com/sylv256/infinidye/releases/download/v1.0.1/infinidye-1.0.1.jar"
+					"hash": "9f6501ffcb0882af7bf05b6e34e1a9c6f910ef94066b2dfe78c98102650dcbf4c3e8b726d834621c4fed3200e09556c5a05c5e2607f6f6ff452fea8ac0fbab06",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/jtQuYi7o/versions/kJlDDcDG/infinidye-1.0.1.jar"
 				},
 				"filename": "infinidye-1.0.1.jar",
-				"name": "infinidye",
+				"name": "Infinidye",
 				"side": "both"
 			}
 		},
-		"key": "80ce9dd0839bbad1a9d1a756b8c5f9c4a1a868f4763d83f8335ebbfcaeab6505"
+		"key": "31bd8b5e4b847e33c50fc8de449b42068a4e0f47bf3278aefdd782cf7ac9f9f3"
 	},
 	"panacea": {
 		"files": {
@@ -89,19 +89,74 @@
 		},
 		"key": "8c73e921b19f8a929e11bd8f33ff2d4a826aba97c0fbd21064092853bb8ec71d"
 	},
+	"vividzenith": {
+		"files": {
+			"mods/biolith.pw.toml": {
+				"download": {
+					"hash": "990a91b71a3dbdc93a05a61c2f691ef2c42e94f0f5764ca2870d04c80a296a646d4f75fb5237da0d9cb8d7d05c8d8fd190bb66e064db68ced3647b169e2136ca",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/iGEl6Crx/versions/WfZkZS3g/biolith-fabric-3.6.0-alpha.10.jar"
+				},
+				"filename": "biolith-fabric-3.6.0-alpha.10.jar",
+				"name": "Biolith",
+				"side": "server"
+			},
+			"mods/fabric-api.pw.toml": {
+				"download": {
+					"hash": "8e1b48a2bd10ddd6f1ea59a603a1f28255c2c2f9a2dda93fc196505dee0823eaded2da69d4f154ef654f9faa98e2340ed2b65557ec98637ffe888edc1072912e",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/lOQ4tyDD/fabric-api-0.154.2%2B26.1.2.jar"
+				},
+				"filename": "fabric-api-0.154.2+26.1.2.jar",
+				"name": "Fabric API",
+				"side": "both"
+			},
+			"mods/geckolib.pw.toml": {
+				"download": {
+					"hash": "bf7a3802eb22d8f3798bd3b33d51cb5e6aceee634944abcc2651726929a220c85cc06047a4a9a7386e98138ac8dbe585768cf31c9d49de6b8368e71b2201dfb2",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/XZTmZlwb/geckolib-fabric-26.1.2-5.5.2.jar"
+				},
+				"filename": "geckolib-fabric-26.1.2-5.5.2.jar",
+				"name": "Geckolib",
+				"side": "both"
+			},
+			"mods/trinkets-updated.pw.toml": {
+				"download": {
+					"hash": "daa8a1167194a191aded0882de8fc31529bd9bd2889a967f4f3fc726c3958928f0a34bb9cb56f3c64cf11217d68d027f99becaf3ca7419a41f235934a314f76a",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/XaT8sLP6/versions/9wSHV6li/trinkets-4.0.0-beta.3%2B26.1.jar"
+				},
+				"filename": "trinkets-4.0.0-beta.3+26.1.jar",
+				"name": "Trinkets Updated",
+				"side": "both"
+			},
+			"mods/vivid-zenith.pw.toml": {
+				"download": {
+					"hash": "4889da3806d8e8fd4cd894e8eaefa7a0c8c30d2ba24b9829882aa98428c75e516f3f303dfdc9eeee85b26f01f93445fd538561b0a973d2fefbec85faee6cffc4",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/uLrd39rv/versions/pdGk2MdW/vividzenith-0.1.0.jar"
+				},
+				"filename": "vividzenith-0.1.0.jar",
+				"name": "Vivid Zenith",
+				"side": "both"
+			}
+		},
+		"key": "8b680897338c4c610b532ebbba6cb1833fff832902fc998162e245b492c7c860"
+	},
 	"volucraft": {
 		"files": {
 			"mods/volucraft.pw.toml": {
 				"download": {
-					"hash": "d8e58f8eb9dafc5f1aa1ffd8e20a4dd35972c1905bc665c291a4bb558d8ec5a5c2ddde1179e62844733ded165ac730684e4927a42b1e49795849ab2fd01fdcc1",
+					"hash": "ac9ed1bc6bae770c9ae234b536ead1f0d6e45ecc9fb97f07180a2739ec1aa85b941d2a3e60b4c2c4d32605583538b57e5bcee96524c937b25a67ef50a553df05",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/mNvjDpKH/versions/FOckGqm0/volucraft-0.0.8%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/mNvjDpKH/versions/Nxbu1UY0/volucraft-0.1.2%2B26.1.2.jar"
 				},
-				"filename": "volucraft-0.0.8+26.1.2.jar",
+				"filename": "volucraft-0.1.2+26.1.2.jar",
 				"name": "Volucraft",
 				"side": "both"
 			}
 		},
-		"key": "1dea5f5c22402d03b2828452d9bfeb166cb0a4329e0cf838cb5e95cb4b9357d9"
+		"key": "149d478a9caf9768db7c142b5ae87c48a3e7b25ef53914dd39bd6de57872fd51"
 	}
 }
