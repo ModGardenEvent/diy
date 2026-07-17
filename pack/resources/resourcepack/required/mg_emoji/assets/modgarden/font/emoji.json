@@ -191,7 +191,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "modgarden:emoji/pineapple.png",
+			"file": "modgarden:emoji/modfest.png",
 			"height": 9,
 			"ascent": 8,
 			"chars": [
@@ -340,6 +340,60 @@
 			"ascent": 8,
 			"chars": [
 				""
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "modgarden:emoji/modrinth.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				""
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "modgarden:emoji/mojank.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				""
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "modgarden:emoji/tiny_pineapple2.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				""
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "modgarden:emoji/git.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				""
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "modgarden:emoji/github.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				""
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "modgarden:emoji/leek.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				""
 			]
 		}
 	]
