@@ -17,6 +17,15 @@
 			"chars": [
 				"0"
 			]
+		},
+		{
+			"type": "bitmap",
+			"file": "modgarden:art/graphics/16x/mod-garden/diy/icon.png",
+			"ascent": 20,
+			"height": 32,
+			"chars": [
+				"1"
+			]
 		}
 	]
 }

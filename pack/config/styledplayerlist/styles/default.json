@@ -4,14 +4,14 @@
   "list_header": [
     "",
     "",
-    "<font:'modgarden:icons'>-0</> <font:'unsanded:default'>Mod Garden: Nature",
+    "<font:'modgarden:icons'>-1</> <font:'unsanded:default'>Mod Garden: DIY",
     "",
-    "<font:'unsanded:default'><gr #a9ffa7 #6da26c><st>              </>[ </><#ffffff>%server:online%<#6da26c>/</>%server:max_players%</><gr #6da26c #a9ffa7> ]<st>              </>"
+    "<font:'unsanded:default'><gr #e600e6 #990099><st>              </>[ </><#ffffff>%server:online%<#990099>/</>%server:max_players%</><gr #990099 #e600e6> ]<st>              </>"
   ],
   "list_footer": [
-    "<font:'unsanded:default'><gr #a9ffa7 #6da26c #a9ffa7><st>                                       </st>",
+    "<font:'unsanded:default'><gr #e600e6 #990099 #e600e6><st>                                       </st>",
     "",
-    "<#805453>TPS: %server:tps_colored% <#6da26c>|</> <#805453>Ping: <#ffffff>%player:ping_colored%</>",
+    "<#660066>TPS: %server:tps_colored% <#cc00cc>|</> <#660066>Ping: <#ffffff>%player:ping_colored%</>",
     ""
   ],
   "hidden_in_commands": false

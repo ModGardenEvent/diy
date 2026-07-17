@@ -31,7 +31,7 @@
 						}
 					]
 				},
-				"format": "[<white><font 'modgarden:emoji'></*>] %player:displayname%",
+				"format": "[<white><font 'modgarden:emoji'></*>] %player:displayname%",
 				"passthrough": false
 			},
 			{
@@ -56,7 +56,7 @@
 						}
 					]
 				},
-				"format": "[<white><font 'modgarden:emoji'></*>] %player:displayname%",
+				"format": "[<white><font 'modgarden:emoji'></*>] %player:displayname%",
 				"passthrough": false
 			},
 			{
@@ -64,7 +64,7 @@
 					"type": "permission",
 					"permission": "modgarden.participant"
 				},
-				"format": "[<white><font 'modgarden:emoji'></*>] %player:displayname%",
+				"format": "[<white><font 'modgarden:emoji'></*>] %player:displayname%",
 				"passthrough": false
 			},
 			{
