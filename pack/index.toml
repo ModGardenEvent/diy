@@ -619,7 +619,16 @@ file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/genderqueer_heart.png"
 
 [[files]]
+file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/git.png"
+
+[[files]]
+file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/github.png"
+
+[[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/intersex_heart.png"
+
+[[files]]
+file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/leek.png"
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/lesbian_heart.png"
@@ -634,6 +643,15 @@ file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/mod_garden.png"
 
 [[files]]
+file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/modfest.png"
+
+[[files]]
+file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/modrinth.png"
+
+[[files]]
+file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/mojank.png"
+
+[[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/nb_heart.png"
 
 [[files]]
@@ -646,9 +664,6 @@ file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/pan_heart.png"
 
 [[files]]
-file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/pineapple.png"
-
-[[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/plural_heart.png"
 
 [[files]]
@@ -659,6 +674,9 @@ file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/tiny_pineapple.png"
+
+[[files]]
+file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/tiny_pineapple2.png"
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/trans_heart.png"
