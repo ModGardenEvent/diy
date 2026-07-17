@@ -47,7 +47,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "modgarden:emoji/nature.png",
+			"file": "modgarden:emoji/mg_nature.png",
 			"height": 9,
 			"ascent": 8,
 			"chars": [
@@ -331,6 +331,15 @@
 			"ascent": 8,
 			"chars": [
 				""
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "modgarden:emoji/mg_diy.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				""
 			]
 		}
 	]

@@ -127,9 +127,6 @@ file = "mods/barricade.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/barricade.pw.toml.disabled"
-
-[[files]]
 file = "mods/barriers-dont-block-rain.pw.toml.disabled"
 
 [[files]]
@@ -179,9 +176,6 @@ metafile = true
 [[files]]
 file = "mods/frappe.pw.toml"
 metafile = true
-
-[[files]]
-file = "mods/glowcase-2.4.0+1.21.7.jar"
 
 [[files]]
 file = "mods/glowcase.pw.toml"
@@ -418,6 +412,18 @@ file = "resources/resourcepack/required/mg_branding/assets/minecraft/textures/gu
 file = "resources/resourcepack/required/mg_branding/assets/minecraft/textures/gui/title/minecraft.png"
 
 [[files]]
+file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/16x/mod-garden/diy/icon.png"
+
+[[files]]
+file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/16x/mod-garden/diy/logo-full.png"
+
+[[files]]
+file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/16x/mod-garden/diy/logo-minimal.png"
+
+[[files]]
+file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/16x/mod-garden/diy/logo-outline.png"
+
+[[files]]
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/16x/mod-garden/generic/icon-background.png"
 
 [[files]]
@@ -440,6 +446,18 @@ file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/ar
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/16x/mod-garden/nature/logo-outline.png"
+
+[[files]]
+file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/1x/mod-garden/diy/icon.png"
+
+[[files]]
+file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/1x/mod-garden/diy/logo-full.png"
+
+[[files]]
+file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/1x/mod-garden/diy/logo-minimal.png"
+
+[[files]]
+file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/1x/mod-garden/diy/logo-outline.png"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/1x/mod-garden/generic/icon-background.png"
@@ -466,6 +484,18 @@ file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/ar
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/1x/mod-garden/nature/logo-outline.png"
 
 [[files]]
+file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/64x/mod-garden/diy/icon.png"
+
+[[files]]
+file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/64x/mod-garden/diy/logo-full.png"
+
+[[files]]
+file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/64x/mod-garden/diy/logo-minimal.png"
+
+[[files]]
+file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/64x/mod-garden/diy/logo-outline.png"
+
+[[files]]
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/64x/mod-garden/generic/icon-background.png"
 
 [[files]]
@@ -488,6 +518,18 @@ file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/ar
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/64x/mod-garden/nature/logo-outline.png"
+
+[[files]]
+file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/8x/mod-garden/diy/icon.png"
+
+[[files]]
+file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/8x/mod-garden/diy/logo-full.png"
+
+[[files]]
+file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/8x/mod-garden/diy/logo-minimal.png"
+
+[[files]]
+file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/8x/mod-garden/diy/logo-outline.png"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/8x/mod-garden/generic/icon-background.png"
@@ -583,10 +625,13 @@ file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/lesbian_heart.png"
 
 [[files]]
-file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/mod_garden.png"
+file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/mg_diy.png"
 
 [[files]]
-file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/nature.png"
+file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/mg_nature.png"
+
+[[files]]
+file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/mod_garden.png"
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/nb_heart.png"
