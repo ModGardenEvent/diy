@@ -33,16 +33,16 @@
 		"files": {
 			"mods/glim.pw.toml": {
 				"download": {
-					"hash": "46160b51f2347d2bfbf4935e8b94921a8d70d3248ffe87a47fae0d930b7e6eaebc5d6b0ff3732694caeebef9aa1a4a511f65950543ff439b1e01a528b58b7f44",
+					"hash": "b393b531a9c839e1ba3402000a0e7f4ae9ef19598e10384bd2e0276a35aa3a545eda4ccbdc0c98b25b7fd9b05e34cf5e8b4ed2588d4298f123e91103fe050f05",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/7zmE3Xnm/versions/pacmQNy6/glim-0.1.1.jar"
+					"url": "https://cdn.modrinth.com/data/7zmE3Xnm/versions/738X1kJ5/glim-0.2.0.jar"
 				},
-				"filename": "glim-0.1.1.jar",
+				"filename": "glim-0.2.0.jar",
 				"name": "Glim",
 				"side": "both"
 			}
 		},
-		"key": "ab4b9a5b82d9178686459b6ef3140c45443857de700611be1330badb2c6c08f7"
+		"key": "2d91a4efdcecc7b0cc57b60cc8063832c8abe1ffb5f28e6f146139b90d023064"
 	},
 	"hopeful_evenly": {
 		"files": {
@@ -103,11 +103,11 @@
 			},
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "8e1b48a2bd10ddd6f1ea59a603a1f28255c2c2f9a2dda93fc196505dee0823eaded2da69d4f154ef654f9faa98e2340ed2b65557ec98637ffe888edc1072912e",
+					"hash": "e0dcf7e461de2ce62951e40769348be88b965e6a50b0ebd08df10c94e5e85102c30c5298f18a691c4224299fa1112f101ddaee755c4213de6d01019cb670e903",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/lOQ4tyDD/fabric-api-0.154.2%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/v0WpqBBM/fabric-api-0.155.0%2B26.1.2.jar"
 				},
-				"filename": "fabric-api-0.154.2+26.1.2.jar",
+				"filename": "fabric-api-0.155.0+26.1.2.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
@@ -133,16 +133,16 @@
 			},
 			"mods/vivid-zenith.pw.toml": {
 				"download": {
-					"hash": "4889da3806d8e8fd4cd894e8eaefa7a0c8c30d2ba24b9829882aa98428c75e516f3f303dfdc9eeee85b26f01f93445fd538561b0a973d2fefbec85faee6cffc4",
+					"hash": "70c28627da5f41c6c6d95b501eaf79115888725c938d21b158c34f243fe01db5ffa2dd79e3eb6f8a49d0c9e94140763d7dc3472fe390d5ed24b6071c76957d64",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/uLrd39rv/versions/pdGk2MdW/vividzenith-0.1.0.jar"
+					"url": "https://cdn.modrinth.com/data/uLrd39rv/versions/sZI9kv06/vividzenith-0.1.1.jar"
 				},
-				"filename": "vividzenith-0.1.0.jar",
+				"filename": "vividzenith-0.1.1.jar",
 				"name": "Vivid Zenith",
 				"side": "both"
 			}
 		},
-		"key": "8b680897338c4c610b532ebbba6cb1833fff832902fc998162e245b492c7c860"
+		"key": "95ff7ff8a8856b91433f5b9574b656bdc4cf772f9073a6051cf51e63056d05ae"
 	},
 	"volucraft": {
 		"files": {
