@@ -18,31 +18,51 @@
 		"files": {
 			"mods/digamma.pw.toml": {
 				"download": {
-					"hash": "ae1a2ef8a33ac47000c7ac07082b5a2f79f582833114b21dec00f66c8bf35002",
+					"hash": "8537d8d2d2554edbf1c77d1b4a99bff444388da4850b3712fc3e547cda940c91",
 					"hash-format": "sha256",
-					"url": "https://github.com/AutumnalModding/DigammaProject/releases/download/1.1.1/digamma-1.1.1.jar"
+					"url": "https://github.com/AutumnalModding/DigammaProject/releases/download/1.1.1.1/digamma-1.1.2.jar"
 				},
-				"filename": "digamma-1.1.1.jar",
+				"filename": "digamma-1.1.2.jar",
 				"name": "digamma",
 				"side": "both"
 			}
 		},
-		"key": "7428cb5b9bbf95f8663da61ec35cd0336446e0b3865c944c40a4fba6ce7ef034"
+		"key": "98c14ca47a833d87022d42c19ebd51d591ef6975e7f58eba83f372b7b4d73f2a"
 	},
 	"glim": {
 		"files": {
+			"mods/fabric-api.pw.toml": {
+				"download": {
+					"hash": "e07d2e525037e3ce2d6fa18ddc9d4970263a85fd0718fdbd41a1a42c93ec861307d0f5d1461f020ff941bdd5b981a82b5717ee2d6b5c400124bf0171fb21e998",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/uLkEd5dr/fabric-api-0.155.2%2B26.1.2.jar"
+				},
+				"filename": "fabric-api-0.155.2+26.1.2.jar",
+				"name": "Fabric API",
+				"side": "both"
+			},
+			"mods/fabric-language-kotlin.pw.toml": {
+				"download": {
+					"hash": "9a63c35a550b0362b7b25ff045d93709c7b0dae08c89076cba422813fdfb9e5f5dd021ed3afac9f82e74e95b88c249e8f68b240717151540ca3e88cc27fb9c77",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/bdhiINYC/fabric-language-kotlin-1.13.13%2Bkotlin.2.4.10.jar"
+				},
+				"filename": "fabric-language-kotlin-1.13.13+kotlin.2.4.10.jar",
+				"name": "Fabric Language Kotlin",
+				"side": "both"
+			},
 			"mods/glim.pw.toml": {
 				"download": {
-					"hash": "b393b531a9c839e1ba3402000a0e7f4ae9ef19598e10384bd2e0276a35aa3a545eda4ccbdc0c98b25b7fd9b05e34cf5e8b4ed2588d4298f123e91103fe050f05",
+					"hash": "783da97eda0db5a7788d46c9b1c8eec7aef6a0fdc1c71453583901f9d2b9357c66f41959454c7c7a8680a4b686bc36a1408decd37b3282c7173c194f954747bc",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/7zmE3Xnm/versions/738X1kJ5/glim-0.2.0.jar"
+					"url": "https://cdn.modrinth.com/data/7zmE3Xnm/versions/czaUDUVs/glim-0.2.3.jar"
 				},
-				"filename": "glim-0.2.0.jar",
+				"filename": "glim-0.2.3.jar",
 				"name": "Glim",
 				"side": "both"
 			}
 		},
-		"key": "2d91a4efdcecc7b0cc57b60cc8063832c8abe1ffb5f28e6f146139b90d023064"
+		"key": "8c698b8e694477516467fcc9647e9c1575e4be18dcce1c6fe0be8bd84ee47ad5"
 	},
 	"hopeful_evenly": {
 		"files": {
@@ -88,6 +108,21 @@
 			}
 		},
 		"key": "8c73e921b19f8a929e11bd8f33ff2d4a826aba97c0fbd21064092853bb8ec71d"
+	},
+	"tourmaline": {
+		"files": {
+			"mods/tourmaline.pw.toml": {
+				"download": {
+					"hash": "df247790b57a14706e7b632f5590f5e3383a52f4ac20850074085e717f371262",
+					"hash-format": "sha256",
+					"url": "https://sylveon.pet/cyan/tourmaline/releases/download/0.0.0/tourmaline-0.0.0.jar"
+				},
+				"filename": "tourmaline-0.0.0.jar",
+				"name": "tourmaline",
+				"side": "both"
+			}
+		},
+		"key": "0b949877d5ee5503b3264dd343b70a766e61042186ebd2b8f6c0fa2b9b1e411b"
 	},
 	"vividzenith": {
 		"files": {
