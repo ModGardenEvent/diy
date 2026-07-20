@@ -1,1 +1,197 @@
-{}
+{
+	"caustics": {
+		"files": {
+			"mods/caustics.pw.toml": {
+				"download": {
+					"hash": "399c16a67280e22bc7db3cbcd7ea11bff4b499e808423fd32fdeb12805acfa9c",
+					"hash-format": "sha256",
+					"url": "https://github.com/Ramixin/Caustics/releases/download/0.0.3/Caustics-0.0.3.jar"
+				},
+				"filename": "Caustics-0.0.3.jar",
+				"name": "caustics",
+				"side": "both"
+			}
+		},
+		"key": "37eff6f29dc501f97826775fcf2c0b91740f16becb506d6efb46827ee5fa5398"
+	},
+	"digamma": {
+		"files": {
+			"mods/digamma.pw.toml": {
+				"download": {
+					"hash": "8537d8d2d2554edbf1c77d1b4a99bff444388da4850b3712fc3e547cda940c91",
+					"hash-format": "sha256",
+					"url": "https://github.com/AutumnalModding/DigammaProject/releases/download/1.1.1.1/digamma-1.1.2.jar"
+				},
+				"filename": "digamma-1.1.2.jar",
+				"name": "digamma",
+				"side": "both"
+			}
+		},
+		"key": "98c14ca47a833d87022d42c19ebd51d591ef6975e7f58eba83f372b7b4d73f2a"
+	},
+	"glim": {
+		"files": {
+			"mods/fabric-api.pw.toml": {
+				"download": {
+					"hash": "e07d2e525037e3ce2d6fa18ddc9d4970263a85fd0718fdbd41a1a42c93ec861307d0f5d1461f020ff941bdd5b981a82b5717ee2d6b5c400124bf0171fb21e998",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/uLkEd5dr/fabric-api-0.155.2%2B26.1.2.jar"
+				},
+				"filename": "fabric-api-0.155.2+26.1.2.jar",
+				"name": "Fabric API",
+				"side": "both"
+			},
+			"mods/fabric-language-kotlin.pw.toml": {
+				"download": {
+					"hash": "9a63c35a550b0362b7b25ff045d93709c7b0dae08c89076cba422813fdfb9e5f5dd021ed3afac9f82e74e95b88c249e8f68b240717151540ca3e88cc27fb9c77",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/bdhiINYC/fabric-language-kotlin-1.13.13%2Bkotlin.2.4.10.jar"
+				},
+				"filename": "fabric-language-kotlin-1.13.13+kotlin.2.4.10.jar",
+				"name": "Fabric Language Kotlin",
+				"side": "both"
+			},
+			"mods/glim.pw.toml": {
+				"download": {
+					"hash": "016e32bd45fc5942d1952bd5f35a255c52a71560b7866d9f3f2ad5764ab28046654106631cf9cc0510afb7196d7d6a7528fed406d28deb6667d3999c37786eb6",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/7zmE3Xnm/versions/OVsw2xXx/glim-0.3.0.jar"
+				},
+				"filename": "glim-0.3.0.jar",
+				"name": "Glim",
+				"side": "both"
+			}
+		},
+		"key": "df0318723ecff3cb7347a90319778933bf235145b930547a6aeb9ee6dd4177fa"
+	},
+	"hopeful_evenly": {
+		"files": {
+			"mods/hopeful-evenly.pw.toml": {
+				"download": {
+					"hash": "ed6a152801ebbf2e16e0df8f1217de5c719e596dff461edcdfb3482d4fa8aebf3095e195f1a266cb23bba8aa77695d24ee708914aea639bbef57dfda0fd97ed0",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/oiFMAIKR/versions/Ak7t6iag/hopeful_evenly-26.0.1.jar"
+				},
+				"filename": "hopeful_evenly-26.0.1.jar",
+				"name": "Hopeful: Evenly",
+				"side": "both"
+			}
+		},
+		"key": "411ac22f0c644728d685f60a8e5e12f89ee11dd7808a915041a0d7c8145d43e3"
+	},
+	"infinidye": {
+		"files": {
+			"mods/infinidye.pw.toml": {
+				"download": {
+					"hash": "9f6501ffcb0882af7bf05b6e34e1a9c6f910ef94066b2dfe78c98102650dcbf4c3e8b726d834621c4fed3200e09556c5a05c5e2607f6f6ff452fea8ac0fbab06",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/jtQuYi7o/versions/kJlDDcDG/infinidye-1.0.1.jar"
+				},
+				"filename": "infinidye-1.0.1.jar",
+				"name": "Infinidye",
+				"side": "both"
+			}
+		},
+		"key": "31bd8b5e4b847e33c50fc8de449b42068a4e0f47bf3278aefdd782cf7ac9f9f3"
+	},
+	"panacea": {
+		"files": {
+			"mods/panacea.pw.toml": {
+				"download": {
+					"hash": "be0ccbce5d0db79812345474af02bb3c873aed3fc2aee731cc0b54eb948b5a4c",
+					"hash-format": "sha256",
+					"url": "https://git.greenhouse.lgbt/Modding/panacea/releases/download/0.1.0-alpha.3+26.1.x/panacea-0.1.0-alpha.3+26.1.x.jar"
+				},
+				"filename": "panacea-0.1.0-alpha.3+26.1.x.jar",
+				"name": "panacea",
+				"side": "both"
+			}
+		},
+		"key": "8c73e921b19f8a929e11bd8f33ff2d4a826aba97c0fbd21064092853bb8ec71d"
+	},
+	"tourmaline": {
+		"files": {
+			"mods/tourmaline.pw.toml": {
+				"download": {
+					"hash": "df247790b57a14706e7b632f5590f5e3383a52f4ac20850074085e717f371262",
+					"hash-format": "sha256",
+					"url": "https://sylveon.pet/cyan/tourmaline/releases/download/0.0.0/tourmaline-0.0.0.jar"
+				},
+				"filename": "tourmaline-0.0.0.jar",
+				"name": "tourmaline",
+				"side": "both"
+			}
+		},
+		"key": "0b949877d5ee5503b3264dd343b70a766e61042186ebd2b8f6c0fa2b9b1e411b"
+	},
+	"vividzenith": {
+		"files": {
+			"mods/biolith.pw.toml": {
+				"download": {
+					"hash": "990a91b71a3dbdc93a05a61c2f691ef2c42e94f0f5764ca2870d04c80a296a646d4f75fb5237da0d9cb8d7d05c8d8fd190bb66e064db68ced3647b169e2136ca",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/iGEl6Crx/versions/WfZkZS3g/biolith-fabric-3.6.0-alpha.10.jar"
+				},
+				"filename": "biolith-fabric-3.6.0-alpha.10.jar",
+				"name": "Biolith",
+				"side": "server"
+			},
+			"mods/fabric-api.pw.toml": {
+				"download": {
+					"hash": "e07d2e525037e3ce2d6fa18ddc9d4970263a85fd0718fdbd41a1a42c93ec861307d0f5d1461f020ff941bdd5b981a82b5717ee2d6b5c400124bf0171fb21e998",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/uLkEd5dr/fabric-api-0.155.2%2B26.1.2.jar"
+				},
+				"filename": "fabric-api-0.155.2+26.1.2.jar",
+				"name": "Fabric API",
+				"side": "both"
+			},
+			"mods/geckolib.pw.toml": {
+				"download": {
+					"hash": "bf7a3802eb22d8f3798bd3b33d51cb5e6aceee634944abcc2651726929a220c85cc06047a4a9a7386e98138ac8dbe585768cf31c9d49de6b8368e71b2201dfb2",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/XZTmZlwb/geckolib-fabric-26.1.2-5.5.2.jar"
+				},
+				"filename": "geckolib-fabric-26.1.2-5.5.2.jar",
+				"name": "Geckolib",
+				"side": "both"
+			},
+			"mods/trinkets-updated.pw.toml": {
+				"download": {
+					"hash": "daa8a1167194a191aded0882de8fc31529bd9bd2889a967f4f3fc726c3958928f0a34bb9cb56f3c64cf11217d68d027f99becaf3ca7419a41f235934a314f76a",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/XaT8sLP6/versions/9wSHV6li/trinkets-4.0.0-beta.3%2B26.1.jar"
+				},
+				"filename": "trinkets-4.0.0-beta.3+26.1.jar",
+				"name": "Trinkets Updated",
+				"side": "both"
+			},
+			"mods/vivid-zenith.pw.toml": {
+				"download": {
+					"hash": "70c28627da5f41c6c6d95b501eaf79115888725c938d21b158c34f243fe01db5ffa2dd79e3eb6f8a49d0c9e94140763d7dc3472fe390d5ed24b6071c76957d64",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/uLrd39rv/versions/sZI9kv06/vividzenith-0.1.1.jar"
+				},
+				"filename": "vividzenith-0.1.1.jar",
+				"name": "Vivid Zenith",
+				"side": "both"
+			}
+		},
+		"key": "95ff7ff8a8856b91433f5b9574b656bdc4cf772f9073a6051cf51e63056d05ae"
+	},
+	"volucraft": {
+		"files": {
+			"mods/volucraft.pw.toml": {
+				"download": {
+					"hash": "09fba7bb15fdff4e0043fac5dc4ca7a004b3b6f620c86982ddd5ce6a8a41c9568196cccb238d62816368b826493562fafdc45d24f9ffff11ba0dd6da34de6224",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/mNvjDpKH/versions/pYBW3Ege/volucraft-0.1.3%2B26.1.2.jar"
+				},
+				"filename": "volucraft-0.1.3+26.1.2.jar",
+				"name": "Volucraft",
+				"side": "both"
+			}
+		},
+		"key": "172d8302c51b37c319a90e3a5759766c9f4a3f0b772eae99106f1127fc572cd5"
+	}
+}
