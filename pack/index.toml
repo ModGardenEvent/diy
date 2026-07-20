@@ -712,4 +712,7 @@ file = "server-icon.png"
 file = "server.properties"
 
 [[files]]
+file = "servers.dat"
+
+[[files]]
 file = "unsup.toml"
