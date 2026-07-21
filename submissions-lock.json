@@ -109,6 +109,10 @@
 		},
 		"key": "8c73e921b19f8a929e11bd8f33ff2d4a826aba97c0fbd21064092853bb8ec71d"
 	},
+	"pretty": {
+		"files": {},
+		"key": "f6f8c2dc806678d89c43e5767ad769d2a55c6b480d6d7331164b320cf3cb7a16"
+	},
 	"tourmaline": {
 		"files": {
 			"mods/tourmaline.pw.toml": {
