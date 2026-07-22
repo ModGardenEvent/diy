@@ -110,8 +110,19 @@
 		"key": "8c73e921b19f8a929e11bd8f33ff2d4a826aba97c0fbd21064092853bb8ec71d"
 	},
 	"pretty": {
-		"files": {},
-		"key": "f6f8c2dc806678d89c43e5767ad769d2a55c6b480d6d7331164b320cf3cb7a16"
+		"files": {
+			"mods/pretty.pw.toml": {
+				"download": {
+					"hash": "e6341bc83481592c6328a961b12e1c8a1ce4f0d7f9144bf9a6c8573092cc4952",
+					"hash-format": "sha256",
+					"url": "https://github.com/worldwidepixel/PrettyPlease/releases/download/mg-1.0.0b/pretty-1.0.0+26.1.2.jar"
+				},
+				"filename": "pretty-1.0.0+26.1.2.jar",
+				"name": "pretty",
+				"side": "both"
+			}
+		},
+		"key": "0b5a1f35028d433e5891cb72168bc05417e5bb4cb10865e628d4e23152308849"
 	},
 	"tourmaline": {
 		"files": {
