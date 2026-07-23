@@ -6,8 +6,8 @@
 		"viewer_top_color": "#e053e0",
 		"viewer_bottom_color": "#7f2e9c"
 	},
-	"modgarden:missing_texture": {
-		"text_color": "#ffffff",
+	"mod-garden:missingno": {
+		"text_color": "#ff00ff",
 		"glow_color": "#ffc849",
 		"display": {
 			"offsets": {
@@ -37,8 +37,8 @@
 		},
 		"list_order": 1
 	},
-	"modgarden:toolbox": {
-		"text_color": "#5555ff",
+	"mod-garden:toolbox": {
+		"text_color": "#ff5555",
 		"glow_color": "#fff596",
 		"display": {
 			"offsets": {
@@ -68,8 +68,8 @@
 		},
 		"list_order": 2
 	},
-	"modgarden:paintbrush": {
-		"text_color": "#ff5555",
+	"mod-garden:paintbrush": {
+		"text_color": "#55ff55",
 		"glow_color": "#fff596",
 		"display": {
 			"offsets": {
@@ -99,8 +99,8 @@
 		},
 		"list_order": 3
 	},
-	"modgarden:puzzle": {
-		"text_color": "#ffff55",
+	"mod-garden:puzzle": {
+		"text_color": "#55ffff",
 		"glow_color": "#fff596",
 		"display": {
 			"offsets": {

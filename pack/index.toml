@@ -301,55 +301,55 @@ file = "mods/yosbr.pw.toml"
 metafile = true
 
 [[files]]
-file = "resources/common/required/mg_shards/assets/modgarden/lang/en_us.json"
+file = "resources/common/required/mg_shards/assets/mod-garden/lang/en_us.json"
 
 [[files]]
-file = "resources/common/required/mg_shards/assets/modgarden/textures/gui/shards/missing_texture_backing.png"
+file = "resources/common/required/mg_shards/assets/mod-garden/textures/gui/shards/missingno_backing.png"
 
 [[files]]
-file = "resources/common/required/mg_shards/assets/modgarden/textures/gui/shards/missing_texture_front.png"
+file = "resources/common/required/mg_shards/assets/mod-garden/textures/gui/shards/missingno_front.png"
 
 [[files]]
-file = "resources/common/required/mg_shards/assets/modgarden/textures/gui/shards/missing_texture_mini_backing.png"
+file = "resources/common/required/mg_shards/assets/mod-garden/textures/gui/shards/missingno_mini_backing.png"
 
 [[files]]
-file = "resources/common/required/mg_shards/assets/modgarden/textures/gui/shards/missing_texture_mini_front.png"
+file = "resources/common/required/mg_shards/assets/mod-garden/textures/gui/shards/missingno_mini_front.png"
 
 [[files]]
-file = "resources/common/required/mg_shards/assets/modgarden/textures/gui/shards/paintbrush_backing.png"
+file = "resources/common/required/mg_shards/assets/mod-garden/textures/gui/shards/paintbrush_backing.png"
 
 [[files]]
-file = "resources/common/required/mg_shards/assets/modgarden/textures/gui/shards/paintbrush_front.png"
+file = "resources/common/required/mg_shards/assets/mod-garden/textures/gui/shards/paintbrush_front.png"
 
 [[files]]
-file = "resources/common/required/mg_shards/assets/modgarden/textures/gui/shards/paintbrush_mini_backing.png"
+file = "resources/common/required/mg_shards/assets/mod-garden/textures/gui/shards/paintbrush_mini_backing.png"
 
 [[files]]
-file = "resources/common/required/mg_shards/assets/modgarden/textures/gui/shards/paintbrush_mini_front.png"
+file = "resources/common/required/mg_shards/assets/mod-garden/textures/gui/shards/paintbrush_mini_front.png"
 
 [[files]]
-file = "resources/common/required/mg_shards/assets/modgarden/textures/gui/shards/puzzle_backing.png"
+file = "resources/common/required/mg_shards/assets/mod-garden/textures/gui/shards/puzzle_backing.png"
 
 [[files]]
-file = "resources/common/required/mg_shards/assets/modgarden/textures/gui/shards/puzzle_front.png"
+file = "resources/common/required/mg_shards/assets/mod-garden/textures/gui/shards/puzzle_front.png"
 
 [[files]]
-file = "resources/common/required/mg_shards/assets/modgarden/textures/gui/shards/puzzle_mini_backing.png"
+file = "resources/common/required/mg_shards/assets/mod-garden/textures/gui/shards/puzzle_mini_backing.png"
 
 [[files]]
-file = "resources/common/required/mg_shards/assets/modgarden/textures/gui/shards/puzzle_mini_front.png"
+file = "resources/common/required/mg_shards/assets/mod-garden/textures/gui/shards/puzzle_mini_front.png"
 
 [[files]]
-file = "resources/common/required/mg_shards/assets/modgarden/textures/gui/shards/toolbox_backing.png"
+file = "resources/common/required/mg_shards/assets/mod-garden/textures/gui/shards/toolbox_backing.png"
 
 [[files]]
-file = "resources/common/required/mg_shards/assets/modgarden/textures/gui/shards/toolbox_front.png"
+file = "resources/common/required/mg_shards/assets/mod-garden/textures/gui/shards/toolbox_front.png"
 
 [[files]]
-file = "resources/common/required/mg_shards/assets/modgarden/textures/gui/shards/toolbox_mini_backing.png"
+file = "resources/common/required/mg_shards/assets/mod-garden/textures/gui/shards/toolbox_mini_backing.png"
 
 [[files]]
-file = "resources/common/required/mg_shards/assets/modgarden/textures/gui/shards/toolbox_mini_front.png"
+file = "resources/common/required/mg_shards/assets/mod-garden/textures/gui/shards/toolbox_mini_front.png"
 
 [[files]]
 file = "resources/common/required/mg_shards/data/scattered_shards/shard_type/types.json"
