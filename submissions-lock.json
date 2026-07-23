@@ -53,16 +53,16 @@
 			},
 			"mods/glim.pw.toml": {
 				"download": {
-					"hash": "10e47b20f52dd38bb6bdb48155e68580e0b86e3a57f6f9093cc7bb68d4deadeafebba07b64f84fa948c8449ba3c8755bc66f7d92b9d854e9a9b31fb63896dfb7",
+					"hash": "ef7ce0093842f69f7c28ce414c9051ccd06571b1514fffa7f4db5a1650b18ac00d67b1267d14bffd1b570eda9886b8ca5bd8f3229d01210c0f10c132008536f3",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/7zmE3Xnm/versions/fZFYrf2Y/glim-0.4.0.jar"
+					"url": "https://cdn.modrinth.com/data/7zmE3Xnm/versions/te6FYZ8c/glim-0.5.0.jar"
 				},
-				"filename": "glim-0.4.0.jar",
+				"filename": "glim-0.5.0.jar",
 				"name": "Glim",
 				"side": "both"
 			}
 		},
-		"key": "8dd75d682f0a075e1c1833d2ee431c0fc2cbf7f2edd0a4f526e92d76fd4e4813"
+		"key": "209753fb9463cea30d1aa3764aa8acee3197ad7db550a7a05a47a9999079ea01"
 	},
 	"hopeful_evenly": {
 		"files": {
@@ -98,16 +98,16 @@
 		"files": {
 			"mods/panacea.pw.toml": {
 				"download": {
-					"hash": "49469cf8e9d1f62e8e434072427ad173ddba891a20da6b0ce95cd4f5fd86cb25",
+					"hash": "c4a44268ad0666dc21e9195023e8a4b8eb72f634f7b89846c0ab6e548b6c896f",
 					"hash-format": "sha256",
-					"url": "https://git.greenhouse.lgbt/Modding/panacea/releases/download/0.1.0+26.1.x/panacea-0.1.0+26.1.x.jar"
+					"url": "https://git.greenhouse.lgbt/Modding/panacea/releases/download/0.1.3+26.1.x/panacea-0.1.3+26.1.x.jar"
 				},
-				"filename": "panacea-0.1.0+26.1.x.jar",
+				"filename": "panacea-0.1.3+26.1.x.jar",
 				"name": "panacea",
 				"side": "both"
 			}
 		},
-		"key": "e8bc709202225193ef6510f686036908efaca4105000207b950da4786116c603"
+		"key": "2dcace3df8e99ee95f60a11f6190a4de5b3d24b87dcce0629d1740cb0afe206f"
 	},
 	"pretty": {
 		"files": {
@@ -198,15 +198,15 @@
 		"files": {
 			"mods/volucraft.pw.toml": {
 				"download": {
-					"hash": "f8476848dff6a87553ae1b0c716f7fdd44dac6cef1a26eac50a690f79098e71b17ac195816e578b096fcb8307790a3f4281eb203743f75327ab25b74f62ac0eb",
+					"hash": "cbd6f70c29e0014f2e7f378f12331f8af6860ff2f7d9446200258ce9a304bddf4861a32154293bed8399fe3756fbef875b789000774bfd13f770de04ffeb2078",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/mNvjDpKH/versions/URRvvrkR/volucraft-0.1.5%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/mNvjDpKH/versions/6OQVuWdD/volucraft-0.1.7%2B26.1.2.jar"
 				},
-				"filename": "volucraft-0.1.5+26.1.2.jar",
+				"filename": "volucraft-0.1.7+26.1.2.jar",
 				"name": "Volucraft",
 				"side": "both"
 			}
 		},
-		"key": "38ab7d8e52d3957f90e2d9ceca0a3fec8eecdf14d7d20b6876e7983ae1d6017a"
+		"key": "9a6090ff7f6d906c708f040ff402eca77735f79fe86e9db1c3e88f8b9b5a4932"
 	}
 }
