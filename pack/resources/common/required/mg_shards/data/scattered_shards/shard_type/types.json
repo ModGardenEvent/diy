@@ -1,12 +1,12 @@
 {
 	"display_settings": {
 		"draw_mini_icons": true,
-		"library_color": "#988e8e",
+		"library_color": "#2e2737",
 		"library_set_name_color": "#ffffff",
-		"viewer_top_color": "#c1ffab",
-		"viewer_bottom_color": "#73d46c"
+		"viewer_top_color": "#e053e0",
+		"viewer_bottom_color": "#7f2e9c"
 	},
-	"modgarden:daisy": {
+	"modgarden:missing_texture": {
 		"text_color": "#ffffff",
 		"glow_color": "#ffc849",
 		"display": {
@@ -37,17 +37,17 @@
 		},
 		"list_order": 1
 	},
-	"modgarden:rose": {
-		"text_color": "#ff5555",
+	"modgarden:toolbox": {
+		"text_color": "#5555ff",
 		"glow_color": "#fff596",
 		"display": {
 			"offsets": {
 				"normal": {
-					"top": 12,
+					"top": 18,
 					"left": 12
 				},
 				"mini": {
-					"top": 2,
+					"top": 3,
 					"left": 2
 				}
 			},
@@ -68,8 +68,8 @@
 		},
 		"list_order": 2
 	},
-	"modgarden:sunflower": {
-		"text_color": "#ffff55",
+	"modgarden:paintbrush": {
+		"text_color": "#ff5555",
 		"glow_color": "#fff596",
 		"display": {
 			"offsets": {
@@ -99,8 +99,8 @@
 		},
 		"list_order": 3
 	},
-	"modgarden:chrysanthemum": {
-		"text_color": "#55ff55",
+	"modgarden:puzzle": {
+		"text_color": "#ffff55",
 		"glow_color": "#fff596",
 		"display": {
 			"offsets": {
@@ -129,36 +129,5 @@
 			"sound_id": "scattered_shards:collect_challenge"
 		},
 		"list_order": 4
-	},
-	"modgarden:cornflower": {
-		"text_color": "#5555ff",
-		"glow_color": "#fff596",
-		"display": {
-			"offsets": {
-				"normal": {
-					"top": 12,
-					"left": 12
-				},
-				"mini": {
-					"top": 2,
-					"left": 2
-				}
-			},
-			"textures": {
-				"normal": {
-					"width": 40,
-					"height": 40
-				},
-				"mini": {
-					"width": 12,
-					"height": 12
-				}
-			}
-		},
-		"collect_particle": "minecraft:enchanted_hit",
-		"collect_sound": {
-			"sound_id": "scattered_shards:collect_challenge"
-		},
-		"list_order": 5
 	}
 }
