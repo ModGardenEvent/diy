@@ -68,16 +68,16 @@
 		"files": {
 			"mods/hopeful-evenly.pw.toml": {
 				"download": {
-					"hash": "ed6a152801ebbf2e16e0df8f1217de5c719e596dff461edcdfb3482d4fa8aebf3095e195f1a266cb23bba8aa77695d24ee708914aea639bbef57dfda0fd97ed0",
+					"hash": "1551ff8077ba899e4e27cdf562a1a2dddc57c6737aec707c4593c192a34cb84266a2d82510050d13dde59ee8b394437e13d6bc548c7e5dd948967459e6e3841c",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/oiFMAIKR/versions/Ak7t6iag/hopeful_evenly-26.0.1.jar"
+					"url": "https://cdn.modrinth.com/data/oiFMAIKR/versions/UltugvKW/hopeful_evenly-26.1-0.0.2.jar"
 				},
-				"filename": "hopeful_evenly-26.0.1.jar",
+				"filename": "hopeful_evenly-26.1-0.0.2.jar",
 				"name": "Hopeful: Evenly",
 				"side": "both"
 			}
 		},
-		"key": "411ac22f0c644728d685f60a8e5e12f89ee11dd7808a915041a0d7c8145d43e3"
+		"key": "d47319a66f67bdaf731ae85cee033c79ca8a3b7ee4ee313e628a011a7130d752"
 	},
 	"infinidye": {
 		"files": {
