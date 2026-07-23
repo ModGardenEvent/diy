@@ -198,15 +198,15 @@
 		"files": {
 			"mods/volucraft.pw.toml": {
 				"download": {
-					"hash": "f8476848dff6a87553ae1b0c716f7fdd44dac6cef1a26eac50a690f79098e71b17ac195816e578b096fcb8307790a3f4281eb203743f75327ab25b74f62ac0eb",
+					"hash": "3215b6ba4760a9001fb9b6c980b40338d3622ef9ea2569a4985b14c969b17ad643c570b2a5634247ec505a375a5c53a6517a0dd07a1323536e8ff3d8fc0a2bc8",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/mNvjDpKH/versions/URRvvrkR/volucraft-0.1.5%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/mNvjDpKH/versions/wVIIeAlu/volucraft-0.1.6%2B26.1.2.jar"
 				},
-				"filename": "volucraft-0.1.5+26.1.2.jar",
+				"filename": "volucraft-0.1.6+26.1.2.jar",
 				"name": "Volucraft",
 				"side": "both"
 			}
 		},
-		"key": "38ab7d8e52d3957f90e2d9ceca0a3fec8eecdf14d7d20b6876e7983ae1d6017a"
+		"key": "88e2b92da78ff5e652dfd207869c9ee37ec8348d7e01e5697d9622f100e724ee"
 	}
 }
