@@ -53,46 +53,76 @@
 			},
 			"mods/glim.pw.toml": {
 				"download": {
-					"hash": "ef7ce0093842f69f7c28ce414c9051ccd06571b1514fffa7f4db5a1650b18ac00d67b1267d14bffd1b570eda9886b8ca5bd8f3229d01210c0f10c132008536f3",
+					"hash": "cc8ae9c33710cf6f8467d8b7a6494d75202e3dbaa7b299eb0511fc5e69477e9935e11a0bd2de7ebda20c2c45e6e80afa30237c3d47b1c3cc6b85b6cd34fdb489",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/7zmE3Xnm/versions/te6FYZ8c/glim-0.5.0.jar"
+					"url": "https://cdn.modrinth.com/data/7zmE3Xnm/versions/BN3CrSve/glim-0.6.0.jar"
 				},
-				"filename": "glim-0.5.0.jar",
+				"filename": "glim-0.6.0.jar",
 				"name": "Glim",
 				"side": "both"
 			}
 		},
-		"key": "209753fb9463cea30d1aa3764aa8acee3197ad7db550a7a05a47a9999079ea01"
+		"key": "f2bedc325a9721ac3d9de52ea562e73ca7f91e9937026eb5ab5dffc505a9165b"
 	},
 	"hopeful_evenly": {
 		"files": {
+			"mods/fabric-api.pw.toml": {
+				"download": {
+					"hash": "e07d2e525037e3ce2d6fa18ddc9d4970263a85fd0718fdbd41a1a42c93ec861307d0f5d1461f020ff941bdd5b981a82b5717ee2d6b5c400124bf0171fb21e998",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/uLkEd5dr/fabric-api-0.155.2%2B26.1.2.jar"
+				},
+				"filename": "fabric-api-0.155.2+26.1.2.jar",
+				"name": "Fabric API",
+				"side": "both"
+			},
 			"mods/hopeful-evenly.pw.toml": {
 				"download": {
-					"hash": "ed6a152801ebbf2e16e0df8f1217de5c719e596dff461edcdfb3482d4fa8aebf3095e195f1a266cb23bba8aa77695d24ee708914aea639bbef57dfda0fd97ed0",
+					"hash": "1551ff8077ba899e4e27cdf562a1a2dddc57c6737aec707c4593c192a34cb84266a2d82510050d13dde59ee8b394437e13d6bc548c7e5dd948967459e6e3841c",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/oiFMAIKR/versions/Ak7t6iag/hopeful_evenly-26.0.1.jar"
+					"url": "https://cdn.modrinth.com/data/oiFMAIKR/versions/UltugvKW/hopeful_evenly-26.1-0.0.2.jar"
 				},
-				"filename": "hopeful_evenly-26.0.1.jar",
+				"filename": "hopeful_evenly-26.1-0.0.2.jar",
 				"name": "Hopeful: Evenly",
 				"side": "both"
 			}
 		},
-		"key": "411ac22f0c644728d685f60a8e5e12f89ee11dd7808a915041a0d7c8145d43e3"
+		"key": "d47319a66f67bdaf731ae85cee033c79ca8a3b7ee4ee313e628a011a7130d752"
 	},
 	"infinidye": {
 		"files": {
+			"mods/fabric-api.pw.toml": {
+				"download": {
+					"hash": "e07d2e525037e3ce2d6fa18ddc9d4970263a85fd0718fdbd41a1a42c93ec861307d0f5d1461f020ff941bdd5b981a82b5717ee2d6b5c400124bf0171fb21e998",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/uLkEd5dr/fabric-api-0.155.2%2B26.1.2.jar"
+				},
+				"filename": "fabric-api-0.155.2+26.1.2.jar",
+				"name": "Fabric API",
+				"side": "both"
+			},
+			"mods/frappe.pw.toml": {
+				"download": {
+					"hash": "9131d876ff4df1f792a01e89669e38810296b256971b886493f6c94693b0e4d0037ac87e37b35b3b5d066e5bc8a27b503b0d4ce2c72142645ca6771a4062d6e8",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/ZDxPBmRP/versions/BcpWZ2jU/frappe-1.0.0-alpha.8.jar"
+				},
+				"filename": "frappe-1.0.0-alpha.8.jar",
+				"name": "Frapp\u00e9",
+				"side": "client"
+			},
 			"mods/infinidye.pw.toml": {
 				"download": {
-					"hash": "9f6501ffcb0882af7bf05b6e34e1a9c6f910ef94066b2dfe78c98102650dcbf4c3e8b726d834621c4fed3200e09556c5a05c5e2607f6f6ff452fea8ac0fbab06",
+					"hash": "4ea200735a36c5461e5899094dd0af95aaace029aadba7a21a2e7a7cd4c3a302a16a729554d5e858177bec33eb4706e4508e6d22351c12efad94a278bab072f6",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/jtQuYi7o/versions/kJlDDcDG/infinidye-1.0.1.jar"
+					"url": "https://cdn.modrinth.com/data/jtQuYi7o/versions/q0957Tln/infinidye-1.1.0.jar"
 				},
-				"filename": "infinidye-1.0.1.jar",
+				"filename": "infinidye-1.1.0.jar",
 				"name": "Infinidye",
 				"side": "both"
 			}
 		},
-		"key": "31bd8b5e4b847e33c50fc8de449b42068a4e0f47bf3278aefdd782cf7ac9f9f3"
+		"key": "f63649796d3e5233cb9484b3173e08438addbb81b3b43efb13fe0bc77646fc24"
 	},
 	"panacea": {
 		"files": {
@@ -128,16 +158,16 @@
 		"files": {
 			"mods/tourmaline.pw.toml": {
 				"download": {
-					"hash": "df247790b57a14706e7b632f5590f5e3383a52f4ac20850074085e717f371262",
+					"hash": "50eb116f6902a4727e0f4f66f4804a2e5c2027bbd133983245b5e7aa56c40237",
 					"hash-format": "sha256",
-					"url": "https://sylveon.pet/cyan/tourmaline/releases/download/0.0.0/tourmaline-0.0.0.jar"
+					"url": "https://sylveon.pet/cyan/tourmaline/releases/download/0.0.1/tourmaline-0.0.1.jar"
 				},
-				"filename": "tourmaline-0.0.0.jar",
+				"filename": "tourmaline-0.0.1.jar",
 				"name": "tourmaline",
 				"side": "both"
 			}
 		},
-		"key": "0b949877d5ee5503b3264dd343b70a766e61042186ebd2b8f6c0fa2b9b1e411b"
+		"key": "f55c9d9bb6e2afc6305e25ee54f4dbf37fec553e2e7736a2c8390b5e8c3e72dc"
 	},
 	"vividzenith": {
 		"files": {
@@ -198,15 +228,15 @@
 		"files": {
 			"mods/volucraft.pw.toml": {
 				"download": {
-					"hash": "cbd6f70c29e0014f2e7f378f12331f8af6860ff2f7d9446200258ce9a304bddf4861a32154293bed8399fe3756fbef875b789000774bfd13f770de04ffeb2078",
+					"hash": "c932f2cd5068b69160248f80bf18421883c4a90d49d64ef2e63ac9f66182ab6a8aea49032eee3e48c07eeab1b6e44c4b14c98f21caa29496c0daa633ecb1805e",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/mNvjDpKH/versions/6OQVuWdD/volucraft-0.1.7%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/mNvjDpKH/versions/8X49c4uj/volucraft-0.2.1%2B26.1.2.jar"
 				},
-				"filename": "volucraft-0.1.7+26.1.2.jar",
+				"filename": "volucraft-0.2.1+26.1.2.jar",
 				"name": "Volucraft",
 				"side": "both"
 			}
 		},
-		"key": "9a6090ff7f6d906c708f040ff402eca77735f79fe86e9db1c3e88f8b9b5a4932"
+		"key": "bc34d81c22f3c27561038fa50a5599bc87787ae89d2b729414cdad77b5739dd4"
 	}
 }
