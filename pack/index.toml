@@ -277,16 +277,15 @@ file = "mods/surveyor.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/worldedit-client.toml.disabled"
+file = "mods/worldedit-client.pw.toml"
+metafile = true
 
 [[files]]
 file = "mods/worldedit-cui.pw.toml.disabled"
 
 [[files]]
-file = "mods/worldedit-fabric-mc26.1-7.4.3-SNAPSHOT-dist.jar"
-
-[[files]]
-file = "mods/worldedit-server.pw.toml.disabled"
+file = "mods/worldedit-server.pw.toml"
+metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
@@ -301,79 +300,70 @@ file = "mods/yosbr.pw.toml"
 metafile = true
 
 [[files]]
-file = "resources/common/required/mg_shards/assets/modgarden/lang/en_us.json"
+file = "resources/common/required/mg_shards/assets/mod-garden/lang/en_us.json"
 
 [[files]]
-file = "resources/common/required/mg_shards/assets/modgarden/textures/gui/shards/chrysanthemum_backing.png"
+file = "resources/common/required/mg_shards/assets/mod-garden/textures/gui/shards/missingno_backing.png"
 
 [[files]]
-file = "resources/common/required/mg_shards/assets/modgarden/textures/gui/shards/chrysanthemum_front.png"
+file = "resources/common/required/mg_shards/assets/mod-garden/textures/gui/shards/missingno_front.png"
 
 [[files]]
-file = "resources/common/required/mg_shards/assets/modgarden/textures/gui/shards/chrysanthemum_mini_backing.png"
+file = "resources/common/required/mg_shards/assets/mod-garden/textures/gui/shards/missingno_mini_backing.png"
 
 [[files]]
-file = "resources/common/required/mg_shards/assets/modgarden/textures/gui/shards/chrysanthemum_mini_front.png"
+file = "resources/common/required/mg_shards/assets/mod-garden/textures/gui/shards/missingno_mini_front.png"
 
 [[files]]
-file = "resources/common/required/mg_shards/assets/modgarden/textures/gui/shards/cornflower_backing.png"
+file = "resources/common/required/mg_shards/assets/mod-garden/textures/gui/shards/paintbrush_backing.png"
 
 [[files]]
-file = "resources/common/required/mg_shards/assets/modgarden/textures/gui/shards/cornflower_front.png"
+file = "resources/common/required/mg_shards/assets/mod-garden/textures/gui/shards/paintbrush_front.png"
 
 [[files]]
-file = "resources/common/required/mg_shards/assets/modgarden/textures/gui/shards/cornflower_mini_backing.png"
+file = "resources/common/required/mg_shards/assets/mod-garden/textures/gui/shards/paintbrush_mini_backing.png"
 
 [[files]]
-file = "resources/common/required/mg_shards/assets/modgarden/textures/gui/shards/cornflower_mini_front.png"
+file = "resources/common/required/mg_shards/assets/mod-garden/textures/gui/shards/paintbrush_mini_front.png"
 
 [[files]]
-file = "resources/common/required/mg_shards/assets/modgarden/textures/gui/shards/daisy_backing.png"
+file = "resources/common/required/mg_shards/assets/mod-garden/textures/gui/shards/puzzle_backing.png"
 
 [[files]]
-file = "resources/common/required/mg_shards/assets/modgarden/textures/gui/shards/daisy_front.png"
+file = "resources/common/required/mg_shards/assets/mod-garden/textures/gui/shards/puzzle_front.png"
 
 [[files]]
-file = "resources/common/required/mg_shards/assets/modgarden/textures/gui/shards/daisy_mini_backing.png"
+file = "resources/common/required/mg_shards/assets/mod-garden/textures/gui/shards/puzzle_mini_backing.png"
 
 [[files]]
-file = "resources/common/required/mg_shards/assets/modgarden/textures/gui/shards/daisy_mini_front.png"
+file = "resources/common/required/mg_shards/assets/mod-garden/textures/gui/shards/puzzle_mini_front.png"
 
 [[files]]
-file = "resources/common/required/mg_shards/assets/modgarden/textures/gui/shards/rose_backing.png"
+file = "resources/common/required/mg_shards/assets/mod-garden/textures/gui/shards/toolbox_backing.png"
 
 [[files]]
-file = "resources/common/required/mg_shards/assets/modgarden/textures/gui/shards/rose_front.png"
+file = "resources/common/required/mg_shards/assets/mod-garden/textures/gui/shards/toolbox_front.png"
 
 [[files]]
-file = "resources/common/required/mg_shards/assets/modgarden/textures/gui/shards/rose_mini_backing.png"
+file = "resources/common/required/mg_shards/assets/mod-garden/textures/gui/shards/toolbox_mini_backing.png"
 
 [[files]]
-file = "resources/common/required/mg_shards/assets/modgarden/textures/gui/shards/rose_mini_front.png"
-
-[[files]]
-file = "resources/common/required/mg_shards/assets/modgarden/textures/gui/shards/sunflower_backing.png"
-
-[[files]]
-file = "resources/common/required/mg_shards/assets/modgarden/textures/gui/shards/sunflower_front.png"
-
-[[files]]
-file = "resources/common/required/mg_shards/assets/modgarden/textures/gui/shards/sunflower_mini_backing.png"
-
-[[files]]
-file = "resources/common/required/mg_shards/assets/modgarden/textures/gui/shards/sunflower_mini_front.png"
-
-[[files]]
-file = "resources/common/required/mg_shards/assets/scattered_shards/models/item/shard_tablet.json"
-
-[[files]]
-file = "resources/common/required/mg_shards/assets/scattered_shards/textures/item/shard_tablet.png"
+file = "resources/common/required/mg_shards/assets/mod-garden/textures/gui/shards/toolbox_mini_front.png"
 
 [[files]]
 file = "resources/common/required/mg_shards/data/scattered_shards/shard_type/types.json"
 
 [[files]]
 file = "resources/common/required/mg_shards/pack.mcmeta"
+
+[[files]]
+file = "resources/datapack/required/panacea_shard/data/mod-garden/advancement/trigger/create_required_potions.json"
+
+[[files]]
+file = "resources/datapack/required/panacea_shard/data/mod-garden/function/trigger/create_required_potions.mcfunction"
+
+[[files]]
+file = "resources/datapack/required/panacea_shard/pack.mcmeta"
 
 [[files]]
 file = "resources/resourcepack/required/Unsanded-1.1.1-custom.zip"
