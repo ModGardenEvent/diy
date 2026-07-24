@@ -1,0 +1,36 @@
+{
+    "criteria": {
+        "brew_poison_potion": {
+            "trigger": "minecraft:brewed_potion",
+            "conditions": {
+                "potion": "minecraft:poison"
+            }
+        },
+        "brew_long_weakness_potion": {
+            "trigger": "minecraft:brewed_potion",
+            "conditions": {
+                "potion": "minecraft:long_weakness"
+            }
+        },
+        "brew_strong_harming_potion": {
+            "trigger": "minecraft:brewed_potion",
+            "conditions": {
+                "potion": "minecraft:strong_harming"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "brew_poison_potion"
+        ],
+        [
+            "brew_long_weakness_potion"
+        ],
+        [
+            "brew_strong_harming_potion"
+        ]
+    ],
+    "rewards": {
+        "function": "mod-garden:trigger/create_required_potions"
+    }
+}
