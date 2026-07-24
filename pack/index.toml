@@ -277,16 +277,15 @@ file = "mods/surveyor.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/worldedit-client.toml.disabled"
+file = "mods/worldedit-client.pw.toml"
+metafile = true
 
 [[files]]
 file = "mods/worldedit-cui.pw.toml.disabled"
 
 [[files]]
-file = "mods/worldedit-fabric-mc26.1-7.4.3-SNAPSHOT-dist.jar"
-
-[[files]]
-file = "mods/worldedit-server.pw.toml.disabled"
+file = "mods/worldedit-server.pw.toml"
+metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
@@ -358,10 +357,13 @@ file = "resources/common/required/mg_shards/data/scattered_shards/shard_type/typ
 file = "resources/common/required/mg_shards/pack.mcmeta"
 
 [[files]]
-file = "resources/datapack/required/panacea_shard/data/mod-garden/advancement/trigger/create_required_potion.json"
+file = "resources/datapack/required/panacea_shard/data/mod-garden/advancement/trigger/create_required_potions.json"
 
 [[files]]
 file = "resources/datapack/required/panacea_shard/data/mod-garden/function/trigger/create_required_potions.mcfunction"
+
+[[files]]
+file = "resources/datapack/required/panacea_shard/pack.mcmeta"
 
 [[files]]
 file = "resources/resourcepack/required/Unsanded-1.1.1-custom.zip"

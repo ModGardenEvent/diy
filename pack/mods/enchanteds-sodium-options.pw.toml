@@ -1,13 +1,13 @@
 name = "Enchanted's Sodium Options"
-filename = "enchanteds_sodium_options-1.2.2+0.8.12-mc26.1.2-neoforge.jar"
+filename = "enchanteds_sodium_options-1.2.2+0.8.12-mc26.1.2-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/bd7qKEEC/versions/vScOC6dG/enchanteds_sodium_options-1.2.2%2B0.8.12-mc26.1.2-neoforge.jar"
+url = "https://cdn.modrinth.com/data/bd7qKEEC/versions/p8p8RzcR/enchanteds_sodium_options-1.2.2%2B0.8.12-mc26.1.2-fabric.jar"
 hash-format = "sha512"
-hash = "ff4e468c420994b7c5cfeedb5d911495424522e307f91994f00592c60d29ea8f51ed4f3b144e2dc6c02c704b5f12cdee389facdb6b43f3c4e3e2d0fde5e6c9f6"
+hash = "c5b59bf6062df47ddc1d5247f5f9b779b320481ab6a2e4cc5c51297ae4fe5175abca87a93ccacfd9d0a1e1470d168aa29b8fb4c359e11f7940fb04bad7c98927"
 
 [update]
 [update.modrinth]
 mod-id = "bd7qKEEC"
-version = "vScOC6dG"
+version = "p8p8RzcR"
