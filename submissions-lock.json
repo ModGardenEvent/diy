@@ -3,31 +3,41 @@
 		"files": {
 			"mods/caustics.pw.toml": {
 				"download": {
-					"hash": "399c16a67280e22bc7db3cbcd7ea11bff4b499e808423fd32fdeb12805acfa9c",
-					"hash-format": "sha256",
-					"url": "https://github.com/Ramixin/Caustics/releases/download/0.0.3/Caustics-0.0.3.jar"
+					"hash": "76614e74ca407dce2df44514c2aebb0ba0ccbbab36ec3ca26aadc20adb815e739939bb19045c19196e141702f6be1fdfed4620de81716403c52853fe1c8fe193",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/UkT2puez/versions/8HqnWDfu/Caustics-0.1.0.jar"
 				},
-				"filename": "Caustics-0.0.3.jar",
-				"name": "caustics",
+				"filename": "Caustics-0.1.0.jar",
+				"name": "Caustics",
+				"side": "both"
+			},
+			"mods/fabric-api.pw.toml": {
+				"download": {
+					"hash": "e07d2e525037e3ce2d6fa18ddc9d4970263a85fd0718fdbd41a1a42c93ec861307d0f5d1461f020ff941bdd5b981a82b5717ee2d6b5c400124bf0171fb21e998",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/uLkEd5dr/fabric-api-0.155.2%2B26.1.2.jar"
+				},
+				"filename": "fabric-api-0.155.2+26.1.2.jar",
+				"name": "Fabric API",
 				"side": "both"
 			}
 		},
-		"key": "37eff6f29dc501f97826775fcf2c0b91740f16becb506d6efb46827ee5fa5398"
+		"key": "52a06a982ad541c97a87518fc51ba79a61d9041f15117a2351416df5670a7bb1"
 	},
 	"digamma": {
 		"files": {
 			"mods/digamma.pw.toml": {
 				"download": {
-					"hash": "8537d8d2d2554edbf1c77d1b4a99bff444388da4850b3712fc3e547cda940c91",
+					"hash": "fd4a51a9ba491c54563b80c67e48e40d60616997f16d0ccb36b6fdd5d8dcb1ca",
 					"hash-format": "sha256",
-					"url": "https://github.com/AutumnalModding/DigammaProject/releases/download/1.1.1.1/digamma-1.1.2.jar"
+					"url": "https://github.com/DoubleHypercube/DigammaProject/releases/download/1.2.1-modgarden/digamma-1.2.1-modgarden.jar"
 				},
-				"filename": "digamma-1.1.2.jar",
+				"filename": "digamma-1.2.1-modgarden.jar",
 				"name": "digamma",
 				"side": "both"
 			}
 		},
-		"key": "98c14ca47a833d87022d42c19ebd51d591ef6975e7f58eba83f372b7b4d73f2a"
+		"key": "6774c191a265a72a184a464d99bc4db291e62d709edc3c86bfde2a2d0cec20c2"
 	},
 	"glim": {
 		"files": {
@@ -228,15 +238,15 @@
 		"files": {
 			"mods/volucraft.pw.toml": {
 				"download": {
-					"hash": "c932f2cd5068b69160248f80bf18421883c4a90d49d64ef2e63ac9f66182ab6a8aea49032eee3e48c07eeab1b6e44c4b14c98f21caa29496c0daa633ecb1805e",
+					"hash": "27d8d5a7b8a402f63b9cd012fe0c82f0d36fe6e4fd54fd346fef27334aa9adf0ac990f3fcbed1a6eed2ba337b7561a2d2072fdff8a6e38f5c4f081a9a65ba515",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/mNvjDpKH/versions/8X49c4uj/volucraft-0.2.1%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/mNvjDpKH/versions/taF4Oi9X/volucraft-0.2.2%2B26.1.2.jar"
 				},
-				"filename": "volucraft-0.2.1+26.1.2.jar",
+				"filename": "volucraft-0.2.2+26.1.2.jar",
 				"name": "Volucraft",
 				"side": "both"
 			}
 		},
-		"key": "bc34d81c22f3c27561038fa50a5599bc87787ae89d2b729414cdad77b5739dd4"
+		"key": "afbf409240977d8911c0dbd7fcb35629e6af5e6eeebc41d83ec243b0125020dd"
 	}
 }
