@@ -138,16 +138,16 @@
 		"files": {
 			"mods/panacea.pw.toml": {
 				"download": {
-					"hash": "a09017965f6d165d6ed6a18f3fe9e4d20dce297452e791599c121a124b03cbaa",
+					"hash": "1a8c0e9b805cb4346657fa938d8855d56ef87007b71227f0dbb151bb09b5fcd5",
 					"hash-format": "sha256",
-					"url": "https://git.greenhouse.lgbt/Modding/panacea/releases/download/0.1.4+26.1.x/panacea-0.1.4+26.1.x.jar"
+					"url": "https://git.greenhouse.lgbt/Modding/panacea/releases/download/0.1.5+26.1.x/panacea-0.1.5+26.1.x.jar"
 				},
-				"filename": "panacea-0.1.4+26.1.x.jar",
+				"filename": "panacea-0.1.5+26.1.x.jar",
 				"name": "panacea",
 				"side": "both"
 			}
 		},
-		"key": "b03cda15ce8a61202e329f1f9e356d39f0d54fffe1aae81213cb00f09b5b5787"
+		"key": "9d5b11c95c6b5756ee8d67f31631f7c6f51c321ea820d2bf3e6289f7a3af0981"
 	},
 	"pretty": {
 		"files": {
