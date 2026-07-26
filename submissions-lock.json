@@ -140,14 +140,14 @@
 				"download": {
 					"hash": "1a8c0e9b805cb4346657fa938d8855d56ef87007b71227f0dbb151bb09b5fcd5",
 					"hash-format": "sha256",
-					"url": "https://git.greenhouse.lgbt/Modding/panacea/releases/download/0.1.5+26.1.x/panacea-0.1.5+26.1.x.jar"
+					"url": "https://cdn.merchantcalico.net/public/minecraft/mod/panacea-0.1.5%2B26.1.x.jar"
 				},
 				"filename": "panacea-0.1.5+26.1.x.jar",
 				"name": "panacea",
 				"side": "both"
 			}
 		},
-		"key": "9d5b11c95c6b5756ee8d67f31631f7c6f51c321ea820d2bf3e6289f7a3af0981"
+		"key": "c1cd31e1daa6f67e51e644a1254db39b386fa43b6a282f5d7dcbe07613d65316"
 	},
 	"pretty": {
 		"files": {
