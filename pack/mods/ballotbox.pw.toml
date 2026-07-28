@@ -1,0 +1,13 @@
+name = "Ballotbox"
+filename = "ballotbox-0.8.1+26.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6d6uwdZy/versions/WjZKPBSy/ballotbox-0.8.1%2B26.1.jar"
+hash-format = "sha512"
+hash = "51a286ea64828f1490c1847e7a71a9fa5cfbc41f5a6ddca9781b3123d89d5802baa56c4b6040c52d98d1a618a2d75801ae70921545481a752e51bc6b376ce169"
+
+[update]
+[update.modrinth]
+mod-id = "6d6uwdZy"
+version = "WjZKPBSy"

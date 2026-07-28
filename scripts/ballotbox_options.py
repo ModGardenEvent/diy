@@ -2,6 +2,7 @@ import json
 
 import requests
 
+import common
 
 def ballotbox_options():
 	repo_root = common.get_repo_root()
@@ -16,30 +17,27 @@ def ballotbox_options():
 	for submission in json.loads(requests.get(submissions_url).text):
 		if submission["project"]["metadata"]["type"] != "mod":
 			continue
+		name = submission["project"]["name"] if "name" in submission["project"] else submission["project"]["metadata"]["mod_id"]
 		option = {
 			"id": submission["id"],
 			"mod_id": submission["project"]["metadata"]["mod_id"],
-			# "name": submission["name"],
-			# "description": submission["description"],
+			"name": name,
 			"platform": {
 				"type": submission["platform"]["type"]
 			}
-			"project": {}
 		}
-		if submission["project"]["metadata"]["name"] is not None:
-			option["project"]["name"] = submission["project"]["metadata"]["name"]
-		else
-			option["project"]["name"] = option["mod_id"]
 
-		if submission["project"]["metadata"]["description"] is not None:
+		if "description" in submission["project"]["metadata"]:
 			option["description"] = submission["project"]["metadata"]["description"]
-		else
-			option["description"] = f"{option["project"]["name"]} has no description."
+		else:
+			option["description"] = f"{option['name']} has no description."
 
 		if submission["platform"]["type"] == "modrinth":
-			option["project"]["modrinth_id"] = submission["platform"]["project_id"]
+			option["platform"]["project_id"] = submission["platform"]["project_id"]
 
-		if "source_url" in submission["project"]["metadata"]:
+		if "project_id" in submission["platform"] and submission["platform"]["type"] == "modrinth":
+			option["platform"]["homepage_url"] = f"https://modrinth.com/project/{option['platform']['project_id']}"
+		elif "source_url" in submission["project"]["metadata"]:
 			option["platform"]["homepage_url"] = submission["project"]["metadata"]["source_url"]
 
 		options.append(option)

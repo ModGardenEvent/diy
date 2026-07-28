@@ -1,0 +1,51 @@
+[
+	{
+		"id": "best_mystery_themed",
+		"name": "Best Mystery-Themed",
+		"description": "The best of the best!",
+		"type": "theme",
+		"limit": 3
+	},
+	{
+		"id": "best_puzzle_themed",
+		"name": "Best Puzzle-Themed",
+		"description": "The best of the best!",
+		"type": "theme",
+		"limit": 3
+	},
+	{
+		"id": "best_experimentation_themed",
+		"name": "Best Experimentation-Themed",
+		"description": "The best of the best!",
+		"type": "theme",
+		"limit": 3
+	},
+	{
+		"id": "best_update_themed",
+		"name": "Best Update-Themed",
+		"description": "The best of the best!",
+		"type": "theme",
+		"limit": 3
+	},
+	{
+		"id": "most_likely_to_use",
+		"name": "Most Likely to Use",
+		"description": "Essential, approachable mods for future packs.",
+		"type": "community",
+		"limit": 3
+	},
+	{
+		"id": "most_innovative",
+		"name": "Most Innovative",
+		"description": "Mods pushing the medium with fresh, surprising ideas.",
+		"type": "community",
+		"limit": 3
+	},
+	{
+		"id": "most_entertaining",
+		"name": "Most Entertaining",
+		"description": "Fun to play, easy to enjoy.",
+		"type": "community",
+		"limit": 3
+	}
+]

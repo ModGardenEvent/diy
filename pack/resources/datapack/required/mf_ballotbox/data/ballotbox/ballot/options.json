@@ -1,0 +1,108 @@
+[
+	{
+		"id": "cgtuk",
+		"mod_id": "volucraft",
+		"name": "volucraft",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "mNvjDpKH",
+			"homepage_url": "https://modrinth.com/project/mNvjDpKH"
+		},
+		"description": "3D Crafting"
+	},
+	{
+		"id": "kxube",
+		"mod_id": "hopeful_evenly",
+		"name": "hopeful_evenly",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "oiFMAIKR",
+			"homepage_url": "https://modrinth.com/project/oiFMAIKR"
+		},
+		"description": "This is an example description! Tell everyone what your mod is about!"
+	},
+	{
+		"id": "oefdd",
+		"mod_id": "infinidye",
+		"name": "infinidye",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "jtQuYi7o",
+			"homepage_url": "https://modrinth.com/project/jtQuYi7o"
+		},
+		"description": "Phenom-7280 \"Infinidye\" is a para-object that, when applied to a surface, manipulates the object's perceived color."
+	},
+	{
+		"id": "oeuvi",
+		"mod_id": "panacea",
+		"name": "panacea",
+		"platform": {
+			"type": "download_url",
+			"homepage_url": "https://git.greenhouse.lgbt/Modding/panacea"
+		},
+		"description": "Small scale brewing rework and potion expansion mod."
+	},
+	{
+		"id": "mrono",
+		"mod_id": "caustics",
+		"name": "caustics",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "UkT2puez",
+			"homepage_url": "https://modrinth.com/project/UkT2puez"
+		},
+		"description": "Adds new crystals and a transportation system. What more could you want?"
+	},
+	{
+		"id": "jcijy",
+		"mod_id": "digamma",
+		"name": "digamma",
+		"platform": {
+			"type": "download_url",
+			"homepage_url": "https://github.com/AutumnalModding/DigammaProject"
+		},
+		"description": "\u03dd"
+	},
+	{
+		"id": "tyzem",
+		"mod_id": "glim",
+		"name": "glim",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "7zmE3Xnm",
+			"homepage_url": "https://modrinth.com/project/7zmE3Xnm"
+		},
+		"description": "Word-based magic, a sinister mystery, and a cerulean sky."
+	},
+	{
+		"id": "djynx",
+		"mod_id": "vividzenith",
+		"name": "vividzenith",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "uLrd39rv",
+			"homepage_url": "https://modrinth.com/project/uLrd39rv"
+		},
+		"description": "Adventure in the skies"
+	},
+	{
+		"id": "cxfnl",
+		"mod_id": "tourmaline",
+		"name": "tourmaline",
+		"platform": {
+			"type": "download_url",
+			"homepage_url": "https://sylveon.pet/cyan/tourmaline"
+		},
+		"description": "seek the golden path"
+	},
+	{
+		"id": "rbprl",
+		"mod_id": "pretty",
+		"name": "pretty",
+		"platform": {
+			"type": "download_url",
+			"homepage_url": "https://github.com/worldwidepixel/PrettyPlease"
+		},
+		"description": "Beautifully breezy building blocks"
+	}
+]

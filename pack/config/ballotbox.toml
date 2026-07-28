@@ -1,9 +1,9 @@
 # The text to use to replace the bug report button
-# default: ModFest Discord
-custom_link_text = "ModFest Discord"
+# default: Mod Garden Discord
+custom_link_text = "Mod Garden Discord"
 # The link to use to replace the bug report button
 # default: https://discord.gg/gn543Ee
-custom_link_url = "https://discord.gg/gn543Ee"
+custom_link_url = "https://discord.modgarden.net"
 # The text to use for replacement credits but tons button
 # default: Modpack Credits
 credits_text = "Modpack Credits"
@@ -12,40 +12,21 @@ credits_text = "Modpack Credits"
 awardLimit = 30
 # The closing date, as an ISO local date time - or an empty string for none
 # default: 2024-12-16T12:00:00
-closingTime = "2025-05-19T12:00:00"
+closingTime = "2026-08-22T00:00:00"
 
-# Whether to add a voting button
+# Where to add a voting button, anchored to existing button translation keys
 [voting_button]
-	# options: INSERT_AFTER, INSERT_BEFORE, REPLACE
-	# default: REPLACE
-	action_type = "REPLACE"
-	target_button = ["menu.feedback", "menu.sendFeedback"]
-	# default: false
-	apply_in_main_menu = false
-	# default: true
-	apply_in_pause_screen = true
+	"menu.feedback" = "REPLACE"
+	"menu.sendFeedback" = "REPLACE"
 
-# Whether to replace the bug report button with another link
+# Where to add a custom link button, anchored to existing button translation keys
 [custom_link_button]
-	# options: INSERT_AFTER, INSERT_BEFORE, REPLACE
-	# default: REPLACE
-	action_type = "REPLACE"
-	target_button = ["menu.reportBugs"]
-	# default: false
-	apply_in_main_menu = false
-	# default: true
-	apply_in_pause_screen = true
+	"menu.reportBugs" = "REPLACE"
 
-# Whether to add a credits button
-	[credits_button]
-	# options: INSERT_AFTER, INSERT_BEFORE, REPLACE
-	# default: REPLACE
-	action_type = "REPLACE"
-	target_button = ["menu.online", "menu.playerReporting"]
-	# default: true
-	apply_in_main_menu = true
-	# default: true
-	apply_in_pause_screen = true
+# Where to add a credits button, anchored to existing button translation keys
+[credits_button]
+	"menu.multiplayer" = "INSERT_AFTER"
+	"menu.playerReporting" = "REPLACE"
 
 # Settings for the reminder on the pause screen
 	[reminder_settings]
