@@ -2,7 +2,7 @@
 	{
 		"id": "cgtuk",
 		"mod_id": "volucraft",
-		"name": "volucraft",
+		"name": "Volucraft",
 		"platform": {
 			"type": "modrinth",
 			"project_id": "mNvjDpKH",
@@ -13,7 +13,7 @@
 	{
 		"id": "kxube",
 		"mod_id": "hopeful_evenly",
-		"name": "hopeful_evenly",
+		"name": "Hopeful: Evenly",
 		"platform": {
 			"type": "modrinth",
 			"project_id": "oiFMAIKR",
@@ -24,7 +24,7 @@
 	{
 		"id": "oefdd",
 		"mod_id": "infinidye",
-		"name": "infinidye",
+		"name": "Infinidye",
 		"platform": {
 			"type": "modrinth",
 			"project_id": "jtQuYi7o",
@@ -35,7 +35,7 @@
 	{
 		"id": "oeuvi",
 		"mod_id": "panacea",
-		"name": "panacea",
+		"name": "Panacea",
 		"platform": {
 			"type": "download_url",
 			"homepage_url": "https://git.greenhouse.lgbt/Modding/panacea"
@@ -45,7 +45,7 @@
 	{
 		"id": "mrono",
 		"mod_id": "caustics",
-		"name": "caustics",
+		"name": "Caustics",
 		"platform": {
 			"type": "modrinth",
 			"project_id": "UkT2puez",
@@ -56,7 +56,7 @@
 	{
 		"id": "jcijy",
 		"mod_id": "digamma",
-		"name": "digamma",
+		"name": "Digamma Project",
 		"platform": {
 			"type": "download_url",
 			"homepage_url": "https://github.com/AutumnalModding/DigammaProject"
@@ -66,7 +66,7 @@
 	{
 		"id": "tyzem",
 		"mod_id": "glim",
-		"name": "glim",
+		"name": "Glim",
 		"platform": {
 			"type": "modrinth",
 			"project_id": "7zmE3Xnm",
@@ -77,7 +77,7 @@
 	{
 		"id": "djynx",
 		"mod_id": "vividzenith",
-		"name": "vividzenith",
+		"name": "Vivid Zenith",
 		"platform": {
 			"type": "modrinth",
 			"project_id": "uLrd39rv",
@@ -88,7 +88,7 @@
 	{
 		"id": "cxfnl",
 		"mod_id": "tourmaline",
-		"name": "tourmaline",
+		"name": "Tourmaline",
 		"platform": {
 			"type": "download_url",
 			"homepage_url": "https://sylveon.pet/cyan/tourmaline"
@@ -98,7 +98,7 @@
 	{
 		"id": "rbprl",
 		"mod_id": "pretty",
-		"name": "pretty",
+		"name": "Pretty, Please!",
 		"platform": {
 			"type": "download_url",
 			"homepage_url": "https://github.com/worldwidepixel/PrettyPlease"

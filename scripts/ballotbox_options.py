@@ -17,7 +17,7 @@ def ballotbox_options():
 	for submission in json.loads(requests.get(submissions_url).text):
 		if submission["project"]["metadata"]["type"] != "mod":
 			continue
-		name = submission["project"]["name"] if "name" in submission["project"] else submission["project"]["metadata"]["mod_id"]
+		name = submission["project"]["metadata"]["name"] if "name" in submission["project"]["metadata"] else submission["project"]["metadata"]["mod_id"]
 		option = {
 			"id": submission["id"],
 			"mod_id": submission["project"]["metadata"]["mod_id"],
