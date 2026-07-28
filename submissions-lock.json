@@ -63,16 +63,16 @@
 			},
 			"mods/glim.pw.toml": {
 				"download": {
-					"hash": "ab97e7d85fb0b4f63bcfc0fa77f6c2274f4d7ce25a537a37ac7f356c645be3afb9b611ca8c0667b4ed997f1f3c1a4db5ad77cbd159bf3d2d76e7d64a338f69ba",
+					"hash": "56d6d6ca48165861cd44368e784a917f04b9977c885e2463b0d4b1812e44ed47d6195ad3147a50b7693280077699f2e646c887bbf860f4ec8e6aa9461f29aef0",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/7zmE3Xnm/versions/bmEry30D/glim-0.7.0.jar"
+					"url": "https://cdn.modrinth.com/data/7zmE3Xnm/versions/HlTRfrnK/glim-0.7.1.jar"
 				},
-				"filename": "glim-0.7.0.jar",
+				"filename": "glim-0.7.1.jar",
 				"name": "Glim",
 				"side": "both"
 			}
 		},
-		"key": "68cf8bbd048e933734cdedb4db3c22a58b2f873da094386655412b7ec3c7210d"
+		"key": "5a931f68abc2a31dac554b69ea4a726389db4ac7cf8eb08725bcdf150d64681b"
 	},
 	"hopeful_evenly": {
 		"files": {
@@ -238,15 +238,15 @@
 		"files": {
 			"mods/volucraft.pw.toml": {
 				"download": {
-					"hash": "dbcd01ef15334ffe3f72063ef47c6d2d3fcad5acd99f55c305aad8925be80f62119fa72d8ea39b23ed3fd5eaaebaabb8f594acb9dd52e32e7ba15267b6f17187",
+					"hash": "12fb01f248ff75d8b4058d41e89d270d9d83081d782caa2d754ae11898464af917d636e7bd9c24aab622f9800d6eeb09045ca54d4dbbab9071ba88a4dd380a3e",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/mNvjDpKH/versions/y8t9G6cD/volucraft-0.2.3%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/mNvjDpKH/versions/utn9Ha2A/volucraft-0.2.4%2B26.1.2.jar"
 				},
-				"filename": "volucraft-0.2.3+26.1.2.jar",
+				"filename": "volucraft-0.2.4+26.1.2.jar",
 				"name": "Volucraft",
 				"side": "both"
 			}
 		},
-		"key": "997919edb338227878f272391cf9d530eadb63a5e4c1df7f5bbc98de93d2d975"
+		"key": "cc2254855e523b7fac70e16a10a2dd3169b90b0754ffec1d2306ec9caba646f1"
 	}
 }
