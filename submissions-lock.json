@@ -63,16 +63,16 @@
 			},
 			"mods/glim.pw.toml": {
 				"download": {
-					"hash": "56d6d6ca48165861cd44368e784a917f04b9977c885e2463b0d4b1812e44ed47d6195ad3147a50b7693280077699f2e646c887bbf860f4ec8e6aa9461f29aef0",
+					"hash": "07032341c8e0b2fefad9acaa22c6f617dd7f211d0aaaf042b54aa7b824db5f1ad6d41ef32fd2160a05414769e8b0c7e88934a4cc578a6d2806f45576706af56b",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/7zmE3Xnm/versions/HlTRfrnK/glim-0.7.1.jar"
+					"url": "https://cdn.modrinth.com/data/7zmE3Xnm/versions/ZbZVIniI/glim-0.7.2.jar"
 				},
-				"filename": "glim-0.7.1.jar",
+				"filename": "glim-0.7.2.jar",
 				"name": "Glim",
 				"side": "both"
 			}
 		},
-		"key": "5a931f68abc2a31dac554b69ea4a726389db4ac7cf8eb08725bcdf150d64681b"
+		"key": "37e621c81fe251dad00c79290168bc57049bca0d714f66cd2092e7ba43343f8d"
 	},
 	"hopeful_evenly": {
 		"files": {
