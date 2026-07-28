@@ -235,7 +235,8 @@ file = "mods/rrv.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/scattered-shards-1.9.3+1.21.7.jar"
+file = "mods/scattered-shards.pw.toml"
+metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
