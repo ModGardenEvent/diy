@@ -3,11 +3,11 @@
 		"files": {
 			"mods/caustics.pw.toml": {
 				"download": {
-					"hash": "76614e74ca407dce2df44514c2aebb0ba0ccbbab36ec3ca26aadc20adb815e739939bb19045c19196e141702f6be1fdfed4620de81716403c52853fe1c8fe193",
+					"hash": "5a5bb199e3699b2ad35620fcf46d7de4d6b6e3b5411be9dec7a05c2055d9d3d6f85ad97c0e9f784c3e1397375804411b45596506302fca576df8a3c9efb30477",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/UkT2puez/versions/8HqnWDfu/Caustics-0.1.0.jar"
+					"url": "https://cdn.modrinth.com/data/UkT2puez/versions/ktCGDWo0/Caustics-0.1.1.jar"
 				},
-				"filename": "Caustics-0.1.0.jar",
+				"filename": "Caustics-0.1.1.jar",
 				"name": "Caustics",
 				"side": "both"
 			},
@@ -20,9 +20,19 @@
 				"filename": "fabric-api-0.155.2+26.1.2.jar",
 				"name": "Fabric API",
 				"side": "both"
+			},
+			"mods/mixson.pw.toml": {
+				"download": {
+					"hash": "0add1efe32cc073e822e4069afd4b2d2cd9e7175362519da4f954e36ba2012acf46aae681582da9e905df240f8f2e26ae23cc1b13da3107e5bf1c31c86ea6381",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/EgugIDm8/versions/76WpeR5z/mixson-2.2.0-multiloader.jar"
+				},
+				"filename": "mixson-2.2.0-multiloader.jar",
+				"name": "mixson",
+				"side": "both"
 			}
 		},
-		"key": "52a06a982ad541c97a87518fc51ba79a61d9041f15117a2351416df5670a7bb1"
+		"key": "0e66189fe193651f68d478beb7cf8e30798161f4ef022c07c295c71856cb78c7"
 	},
 	"digamma": {
 		"files": {
