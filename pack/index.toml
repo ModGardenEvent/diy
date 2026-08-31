@@ -2,709 +2,954 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/NoChatReports/NCR-Client.json"
+hash = "2bc1a3470e5fd2378e585f634a6eefee044da751fefd841610db6f9d62ee5c8d"
 
 [[files]]
 file = "config/NoChatReports/NCR-Common.json"
+hash = "3e7e05e345bb0696cd68bb5df970bfbce1e2685f0620b5b0b5ef0c5d53fbf1ce"
 
 [[files]]
 file = "config/NoChatReports/NCR-Encryption.json"
+hash = "7da1c2edc3ae7c7450b576fafb744c289d6d51117908632adec553f4ec50c984"
 
 [[files]]
 file = "config/NoChatReports/NCR-ServerPreferences.json"
+hash = "36a9f847d58688fb5165ed75ebe0a64d5cf19726ed9a723d57487554ef61393c"
 
 [[files]]
 file = "config/ballotbox.toml"
+hash = "ed5b1b08eb3aaba7745debd9ab7e69d9fb142f9bb879d7c7579447482a30fefb"
 
 [[files]]
 file = "config/bobby.conf"
+hash = "6ff4da9a5e3a1a7668630318e46fa0bd8917ab1006e1133a0aaa891d9c13a67a"
 
 [[files]]
 file = "config/canary.json"
+hash = "50b004f6d3578bbe8db31272b355d42d45ec6a714603a05e01aaf430a621b1ba"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
+hash = "c423720351c000a72c3944d176bb24642d677e725f036c23b33ff54ffa433b7c"
 
 [[files]]
 file = "config/glowcase.toml"
+hash = "9c79487ff63f691e0b9e4ebd33ef0d45cc6ca0a209e79ab484cd8b53d8d9284b"
 
 [[files]]
 file = "config/hoofprint.toml"
+hash = "2801bd67a7b01340e7c518350f25ddfc5dc538f21164645b071f424188d5acbf"
 
 [[files]]
 file = "config/item_descriptions.toml"
+hash = "20c2e917192255d08948516cc3b1bb7ceed3f043982136357c9445dc2dae648e"
 
 [[files]]
 file = "config/lmft.json"
+hash = "616b89227e557c16754a9d89ac5b28bf18da1607cea770e2b92eb95a91c6538e"
 
 [[files]]
 file = "config/meret.toml"
+hash = "4c6ff82f48097eb0d356278abf2ae112fdef99f92dd0bfd6772ffcbd65a478c4"
 
 [[files]]
 file = "config/modfest_sync/behaviour.properties"
+hash = "338a2242baaae49f93257f5cfa1153bfb1c5e683f22ac3294cfbb10c90e8992f"
 
 [[files]]
 file = "config/modmenu.json"
+hash = "06be0e1698e6e1e18b26c323f3714f0758aa8059bf6d152de4c791f54981f756"
 
 [[files]]
 file = "config/roles.json"
+hash = "3b4040780a29bdd8a52069194d34fb141e183e0f5842d6e2b0746a9b569cdf4a"
 
 [[files]]
 file = "config/simpleupdatechecker_modpack.json"
+hash = "5dc5ec66dea5d9b8571c99fa7cbd4db3f9fa4166725e166921b46582cb278268"
 
 [[files]]
 file = "config/sodium-options.json"
+hash = "535f2f0a496677258abe9d07df591df729a88bcd5f5db5bb54b36063102e10a0"
 
 [[files]]
 file = "config/sounds/chat.json"
+hash = "f51c9c3f95f7d6facca61d591b7e399b40a6e3ff620e3856b3e8b7fc7e8f5d63"
 
 [[files]]
 file = "config/stfu.json5"
+hash = "968a1f81d9816e6632a966a994a1d200a9c4fade68e95c451d14a5e53d1e70cc"
 
 [[files]]
 file = "config/styled-chat.json"
+hash = "e2d7309b7e299d772ef0d4049d365dd1962f564258a399408899d623051e64a9"
 
 [[files]]
 file = "config/styled-nicknames.json"
+hash = "9fa03ad9daf2ba21dc03eb8b1ebd822a87472aca463574840e88d9ae6195564a"
 
 [[files]]
 file = "config/styled_chat_emoji.json"
+hash = "1b7245e3e19ae71ae02409d79fbae2f9282837c39085dcac736931c1368d5bd1"
 
 [[files]]
 file = "config/styledplayerlist/config.json"
+hash = "0b784c3fcc816031c6a8bf7b047069270c531b906a6fb37f833ccdd64ef96200"
 
 [[files]]
 file = "config/styledplayerlist/styles/default.json"
+hash = "00a3cc1f0595b29270d409ca31d10f087d1749874f6840d0e1b27ec7f4d92e2c"
 
 [[files]]
 file = "config/surveyor.toml"
+hash = "8a4c3ba4a4420390c7e0c65864575da3293c991742a686bf60d9425dea3072d7"
 
 [[files]]
 file = "config/waila/blacklist.json5"
+hash = "d1bd03fae229d737bce2ef397655a8f19e2eb2a64adbce5bd20b428351afcf86"
 
 [[files]]
 file = "config/waila/waila.json5"
+hash = "68141ee9fc33cfee468cf1aa06b6cadab4a2e9b99acb39c6cb2a572bf69dd559"
 
 [[files]]
 file = "config/waila/waila_plugins.json5"
+hash = "11344c9b823ad2604d91863e829ab1e4c3833ee2aa9e873dda5b99a915d8a44f"
 
 [[files]]
 file = "config/yosbr/options.txt"
+hash = "0025ae977d93c8b6c6bc956d186649245c49d8c38998706c9134b00937c95567"
 
 [[files]]
 file = "mods/area-tools.pw.toml"
+hash = "0c4845f1d55111f6fde632965e4e7b435c7d3069b44a54de3e8ec17a5da415f1"
 metafile = true
 
 [[files]]
 file = "mods/area_lib.pw.toml"
+hash = "247c8c7509f9737225899040a94f380e7fecbd1abe17a132d7bc31dc6b3ee76a"
 metafile = true
 
 [[files]]
 file = "mods/armorstandeditor.pw.toml"
+hash = "d6e9ec8dc0f97a1c37c583ff689e74abe5e21cc943ae270a00a9053a47631eab"
 metafile = true
 
 [[files]]
 file = "mods/auroraslanterns.pw.toml"
+hash = "d39784d1c852244dff22480675ed26910abd3b7fec22adeb2554db61f1f0eeb2"
 metafile = true
 
 [[files]]
 file = "mods/axiom-client.pw.toml"
+hash = "6754b9b8bc4071f1f5b991c3f179e50b02686f7fcfde7cf133634bfada216930"
 metafile = true
 
 [[files]]
 file = "mods/axiom-server.pw.toml"
+hash = "373e0fed8bba572552e8aef12ca96d47cc34abb79e103b625f1e3fa70cffc3d2"
 metafile = true
 
 [[files]]
 file = "mods/badpackets.pw.toml"
+hash = "74319ca347167cb3db382349474b4c9d1889fb5894ddb723bd252e5b195d8558"
 metafile = true
 
 [[files]]
 file = "mods/badstdout.pw.toml"
+hash = "b2f2254fda825a08d1d41a6dcbeada190c772fda4e06ee06c1a8e6a6c7be51f7"
 metafile = true
 
 [[files]]
 file = "mods/ballotbox.pw.toml"
+hash = "ffe076ecbe9b9346a716048a01b7e275340fc673468ea9a1428f72dc85d0d478"
 metafile = true
 
 [[files]]
 file = "mods/barricade.pw.toml"
+hash = "7bfba374bd52b5508a84a621b1276d61eba7579446334c8d7b173377dcf5645a"
 metafile = true
 
 [[files]]
 file = "mods/barriers-dont-block-rain.pw.toml.disabled"
+hash = "20874c3b56a1fd0a9a3ea3855b14a9eb7a069c7e1c30f75307d8d2ad971e32a8"
 
 [[files]]
 file = "mods/better-narrator-error.pw.toml"
+hash = "08c588cc1642d273c6bf00d6286fcdd627e51e723d9a8919a369c38a7376e126"
 metafile = true
 
 [[files]]
 file = "mods/bobby.pw.toml"
+hash = "996ec8b8484c0709cc66e7eaa7a22535375fab7aed76e2ec4db34b5323aa382f"
 metafile = true
 
 [[files]]
 file = "mods/cantilever.pw.toml"
+hash = "af02318e39cbccb4f4c07d10fe7b6bb9c63008fd205aea77ca12718a2042f7f8"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
+hash = "1b8f4603e81c48badce4a9321dea87bdeb9d3b5a2f0be566139d087afad73a47"
 metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
+hash = "b13fbed45cf8bd3bd7bdcfdd75ffcf1258a4aeb02e606c5e23f73c05fba5bd3d"
 metafile = true
 
 [[files]]
 file = "mods/ears.pw.toml"
+hash = "b29699ffd8e82caa132d287a4383d67ae5c19be90a9bcf75b3bef0a8e1456562"
 metafile = true
 
 [[files]]
 file = "mods/enchanteds-sodium-options.pw.toml"
+hash = "6e107cea57001b47f3c61fd6e1f99a7c4e8628515ea7b21611fc65662c859c87"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
+hash = "fed9bdaac0173f3cab2692f538441afda1e2cd46c6f6363790b424c009e34e03"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
+hash = "2a760e528bf27c3eb4ae7c06200d91ee9c2849295addaa2add05495c7dee9528"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
+hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
 metafile = true
 
 [[files]]
 file = "mods/flowerbed.pw.toml"
+hash = "c278834c1a918bf2ed41b2da508e2121b09db1f7f1914253ed50ba7034197b33"
 metafile = true
 
 [[files]]
 file = "mods/frappe.pw.toml"
+hash = "3328cad96a46d734aa37c90b8dfcb3557fa56432c8ffe0fc3361e847f437fac9"
 metafile = true
 
 [[files]]
 file = "mods/glowcase.pw.toml"
+hash = "cc7a82d7802407caf47edf2ae2d01c55d5a301307436e4723d0f8de473ed18a5"
 metafile = true
 
 [[files]]
 file = "mods/hoofprint.pw.toml"
+hash = "542b952643e8a1bdc66bbc2312338228e21223ca7caceb9fb0c42d35ddb6def6"
 metafile = true
 
 [[files]]
 file = "mods/item-descriptions.pw.toml"
+hash = "aa6f36ead804610de9f15c96c898b7b173cee9f92db5bd042079c900d4ff5439"
 metafile = true
 
 [[files]]
 file = "mods/lambdabettergrass.pw.toml"
+hash = "78d6b48a474a33a1a089b81ca847a5ee5ff98773e9ed434bad8f797e36eb59cc"
 metafile = true
 
 [[files]]
-file = "mods/lithium.pw.toml"
-metafile = true
+file = "mods/lithium.pw.toml.disabled"
+hash = "cd37520fbb14b8d5e9471d8c25324736e02dcf3be4b7c5df1699757b2264049f"
 
 [[files]]
 file = "mods/lmft.pw.toml.disabled"
+hash = "8906ef8f4ddbd9808b1a783d673a262ecb5b5e6c0c030ed67c4e103be348d493"
 
 [[files]]
 file = "mods/map_utils-2.3.2+26.1.jar"
+hash = "1bd4a0114ab65db994c4d8290c79961f7ffe70b1b5af476d5ae084b8601f0233"
 
 [[files]]
 file = "mods/mcqoy.pw.toml"
+hash = "059fc87f91cf83afea523d7dc4fa630067a0768330f71d49eaae30dc7c3d7131"
 metafile = true
 
 [[files]]
 file = "mods/mixson.pw.toml"
+hash = "fda8924d1208732b3cb3660f1119a5e63afca2c6d347114a24277181dbf659cd"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
+hash = "137f9f7268efee46f378498be772d7828ac77ba239294c7051a782c9f0ee56ae"
 metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
+hash = "3db1b61528d0fdd908f1fe57685bbc49cdbe496bfe0e349a0280334444193c73"
 metafile = true
 
 [[files]]
 file = "mods/particle-rain.pw.toml"
+hash = "6da3a9448d083b3aab7652307a5dde3de419ccda0b8e98b9f9ce8c00615a0361"
+metafile = true
+
+[[files]]
+file = "mods/pbwarps.pw.toml"
+hash = "1d51be7797b0f5817ad0f3e27d4f245cc0994a0ec10432da3250a464fcfd6672"
 metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
+hash = "d20369e5848ca31ecbb49bae22e953439173bd4617ca239b23335366b2a6a0e9"
 metafile = true
 
 [[files]]
 file = "mods/player-roles-1.8.1+26.1-mod-garden.jar"
+hash = "3669565ba8deecd7542e167d4aa46b733c63decc8d87b99018296838dd908b55"
+
+[[files]]
+file = "mods/polymer.pw.toml"
+hash = "82444cf678a1f7302d1fb0c6b6f0e45882e8d264fcfcee63c0e31f238d665ccf"
+metafile = true
 
 [[files]]
 file = "mods/rrv.pw.toml"
+hash = "1b5e16e65695809e2d4036fb2af36132917134bd34f738afccccf63e18bcc36d"
 metafile = true
 
 [[files]]
 file = "mods/scattered-shards.pw.toml"
+hash = "07559f1f17eb121b65aa019150fd2ed26bc7cb4037a864d67e2530fa7901e661"
 metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
+hash = "58ad6557713aee1971660e47d607f2ad64017d80357b1e9a986270de93162bc0"
 metafile = true
 
 [[files]]
 file = "mods/simple-resource-loader.pw.toml"
+hash = "f8f5a13a845c5c8bbaf4abbdee49dccccb37d988c0d36445fe4585af285bf1b7"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
+hash = "f675fb68db6493e26d25e860443249d2f6d681751c53f23cd29d4a4a1bbb28b5"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
+hash = "e785257258e2811dc4488da78ae8311a249b22c3bdba92b4d6ce5d5ef48939b7"
 metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml.disabled"
+hash = "fbe51395401ce68d9933a65fbcb4ed8cda82ac88d4afd79a5740116114d15949"
 
 [[files]]
 file = "mods/spawnanywhere.pw.toml"
+hash = "ff0b4cc84851b92b154e0aad540ee87f26b93153cd2d5418b5c356690e1e2e17"
 metafile = true
 
 [[files]]
 file = "mods/styled-chat.pw.toml"
+hash = "f2ab94b6897b3f074e88a7c2e62775390cc70ad1aeb378990dea43a40a46bc13"
 metafile = true
 
 [[files]]
 file = "mods/styled-nicknames.pw.toml"
+hash = "f9ed3032402bdf9ad8429397dceec1fb62e8c3da1fecae67916851404633ed42"
 metafile = true
 
 [[files]]
 file = "mods/styledplayerlist.pw.toml"
+hash = "4a9d1a72d932a01d96642ef472cffe8a1438031deb6e5d0af2e878138471625e"
 metafile = true
 
 [[files]]
 file = "mods/surveyor.pw.toml"
+hash = "88a50768b5566179181a819265dd0b76ca6c04e7ddd16a6a69c3abdd782cba14"
 metafile = true
 
 [[files]]
 file = "mods/worldedit-client.pw.toml"
+hash = "1fe1dd03dcf66f9a6ac843aeb500fbdf283723f2882aca7501d4c904e5a13a1e"
 metafile = true
 
 [[files]]
 file = "mods/worldedit-cui.pw.toml.disabled"
+hash = "392ae86741af5da953ae769a40b8cab6e35cf39ad67008489632194bb7f855fe"
 
 [[files]]
 file = "mods/worldedit-server.pw.toml"
+hash = "01bfc2d3ac1379be4a6c57a16ed7a5ce0f94a3c0561556e42a32202a41cd5784"
 metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
+hash = "0ef19a4a5dff28c78b2cf4f3d019623e0059726fd8b5bc67b6a2232163137042"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
+hash = "e212db98871e5d51f2015f3134090353cec414333af3ba2e6015b8c642f5267b"
 metafile = true
 
 [[files]]
 file = "mods/yosbr.pw.toml"
+hash = "1bb9b2e75c6934b1f18648e9b37e20abcf6a4a2547c7cdb0abe88407267e0c10"
 metafile = true
 
 [[files]]
 file = "resources/common/required/mg_shards/assets/mod-garden/lang/en_us.json"
+hash = "91d4b8464967e76f0116ed5f068bd6bc81d333568cc0cd38e8469363a228482d"
 
 [[files]]
 file = "resources/common/required/mg_shards/assets/mod-garden/textures/gui/shards/missingno_backing.png"
+hash = "0f447d194aac8be4201f7d170a820e17e8c5a90ffd83421c5e6df5af4697ba4d"
 
 [[files]]
 file = "resources/common/required/mg_shards/assets/mod-garden/textures/gui/shards/missingno_front.png"
+hash = "0f447d194aac8be4201f7d170a820e17e8c5a90ffd83421c5e6df5af4697ba4d"
 
 [[files]]
 file = "resources/common/required/mg_shards/assets/mod-garden/textures/gui/shards/missingno_mini_backing.png"
+hash = "0c5fb509ccea092a9a8478cf60b896dc41403534acdfc1d05cc216424a2fc597"
 
 [[files]]
 file = "resources/common/required/mg_shards/assets/mod-garden/textures/gui/shards/missingno_mini_front.png"
+hash = "0c5fb509ccea092a9a8478cf60b896dc41403534acdfc1d05cc216424a2fc597"
 
 [[files]]
 file = "resources/common/required/mg_shards/assets/mod-garden/textures/gui/shards/paintbrush_backing.png"
+hash = "5f73a0c5737cc0fa3ebf7934dcf4a1df12d0d104405948436c08d3ff206c4811"
 
 [[files]]
 file = "resources/common/required/mg_shards/assets/mod-garden/textures/gui/shards/paintbrush_front.png"
+hash = "9bdcf8c6ce8de8f820e6908b5480e2e117cdf4180b21908624cfa8283247a2de"
 
 [[files]]
 file = "resources/common/required/mg_shards/assets/mod-garden/textures/gui/shards/paintbrush_mini_backing.png"
+hash = "e32f6c2d87903fb0b6a1264b846308620c68954b21a33c18ca074fdc33cfb1d6"
 
 [[files]]
 file = "resources/common/required/mg_shards/assets/mod-garden/textures/gui/shards/paintbrush_mini_front.png"
+hash = "2e622877b7e3c39a74acf7e05765bdc90a64785e635a30117c81591e28203713"
 
 [[files]]
 file = "resources/common/required/mg_shards/assets/mod-garden/textures/gui/shards/puzzle_backing.png"
+hash = "915c4f059e5d267c047ec211450b9e819505c3891cc1d92047debb29e84145f6"
 
 [[files]]
 file = "resources/common/required/mg_shards/assets/mod-garden/textures/gui/shards/puzzle_front.png"
+hash = "441f2464a78b27ff92bb4e06c58fc6e447331e04d88095ef57f6f4d1b24c1498"
 
 [[files]]
 file = "resources/common/required/mg_shards/assets/mod-garden/textures/gui/shards/puzzle_mini_backing.png"
+hash = "bf0df5e17c16945f7309a0418b5ad44cf4a75b57a0d46702e6aa9163e6d8a5c7"
 
 [[files]]
 file = "resources/common/required/mg_shards/assets/mod-garden/textures/gui/shards/puzzle_mini_front.png"
+hash = "acd957cf995d351a735d6d82caa969248008551257b99cfc527c7bed4fb8f91b"
 
 [[files]]
 file = "resources/common/required/mg_shards/assets/mod-garden/textures/gui/shards/toolbox_backing.png"
+hash = "5cf62fb4dd01f94f29d25b74bee069265e9be11e7221c25967700fae12e2d42d"
 
 [[files]]
 file = "resources/common/required/mg_shards/assets/mod-garden/textures/gui/shards/toolbox_front.png"
+hash = "b14c8791d97236fd11ee7dcb93b489321917024e651cd396820709c09593b79c"
 
 [[files]]
 file = "resources/common/required/mg_shards/assets/mod-garden/textures/gui/shards/toolbox_mini_backing.png"
+hash = "3b092251de1313478c999ed595f4122d1946845c0348f8798a0cf61e991d2450"
 
 [[files]]
 file = "resources/common/required/mg_shards/assets/mod-garden/textures/gui/shards/toolbox_mini_front.png"
+hash = "c4e5cfc01d230747fbcb89d409b04af4dff060883a17ca84ba211c74c6ae3915"
 
 [[files]]
 file = "resources/common/required/mg_shards/data/scattered_shards/shard_type/types.json"
+hash = "a953b29585171f55d51bd40d4e0abb5eb8f4bbf3f58766ad4e3afe08a3a763bf"
 
 [[files]]
 file = "resources/common/required/mg_shards/pack.mcmeta"
+hash = "0df3a951bdbd268752720ef91567203dad0338b2c1b827417040733f3180995a"
+
+[[files]]
+file = "resources/datapack/required/mf_ballotbox/data/ballotbox/ballot/categories.json"
+hash = "478e0aa9867a4626fa2ea40319131083398144738dea36c8e9df4b5d86f37851"
+
+[[files]]
+file = "resources/datapack/required/mf_ballotbox/data/ballotbox/ballot/options.json"
+hash = "458fefcc1e9ce50267ccda315fabd1eaac8e37c442ce4ae3b44cc3e1c933f863"
+
+[[files]]
+file = "resources/datapack/required/mf_ballotbox/pack.mcmeta"
+hash = "62c9a8f4abc548de6b9138e67bdde8fa0942eea417951400d90724450f0b30ca"
 
 [[files]]
 file = "resources/datapack/required/panacea_shard/data/mod-garden/advancement/trigger/create_required_potions.json"
+hash = "f3d019fdcc18de770b6a777e926e9cea842fc84ab2eed750e2a5c2393f481e30"
 
 [[files]]
 file = "resources/datapack/required/panacea_shard/data/mod-garden/function/trigger/create_required_potions.mcfunction"
+hash = "5d91da26d22c0f5dd997acd3655c0750e4905ab574f6d3799dc1be8862d51a49"
 
 [[files]]
 file = "resources/datapack/required/panacea_shard/pack.mcmeta"
+hash = "c05281da116d7815870a707f70ab4b27284baf3ba73dff25594c00c610fe6a65"
 
 [[files]]
 file = "resources/resourcepack/required/Unsanded-1.1.1-custom.zip"
+hash = "dd2c6355ba338f5ce212e5bee6761272c2892a32a8689d5c12fc241c7ee4bc2f"
 
 [[files]]
 file = "resources/resourcepack/required/VanillaTweaks_r250899_MC26.1.x.zip"
+hash = "37db477eaa78a555b0666f3e8c4b880371b427beb40271cf40f2d5358cbcb1c9"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/glowcase/lang/en_us.json"
+hash = "da6fd78ba25fc3a134b9db39512be82ef9a93a3634471357649f2ef7965f6a95"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/minecraft/textures/gui/title/background/panorama_0.png"
+hash = "7b1373783a46dde953a640d8d4dfc33d02a9e370d3242299f64a27a2bef0e6d9"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/minecraft/textures/gui/title/background/panorama_1.png"
+hash = "9997a14ffded8fb053515d924c6028c8e1cc1b0696a2e69f86baf6d3cc24f7e3"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/minecraft/textures/gui/title/background/panorama_2.png"
+hash = "2fd612d9c43912c0ce2143d2c8d918e4d11a498270a69fa05dfb5e8d7c63859d"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/minecraft/textures/gui/title/background/panorama_3.png"
+hash = "296df4dccfb686c126a24aafda11d3043033ddbc4905b09992454aa7cbad4e59"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/minecraft/textures/gui/title/background/panorama_4.png"
+hash = "ac8ca92b3b1fce7d11e16509b845c0528c73eac7627a4a0c1271e6707f800365"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/minecraft/textures/gui/title/background/panorama_5.png"
+hash = "706243e7ceb857690adfb23e210939ab589164210b45ead721be9b1382cd91f0"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/minecraft/textures/gui/title/edition.png"
+hash = "60c75d623b43b95ca23c49e1b7c2f7811e130a4ac746aad61eb38f0ad7c13c08"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/minecraft/textures/gui/title/minceraft.png"
+hash = "d8071520a4fcdd024e0556ab4f0949f65e02d835354d4a0f046344100bd8d1db"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/minecraft/textures/gui/title/minecraft.png"
+hash = "18696c21071698e25666d4ff2f70eb1e1bd16ac604877585241a1d13acb8bdc6"
+
+[[files]]
+file = "resources/resourcepack/required/mg_branding/assets/mod-garden/lang/en_us.json"
+hash = "59a6dad7915e1e89f796a9b5538d4938a48f83c54a39fbee900230fa4bb4405b"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/16x/mod-garden/diy/icon.png"
+hash = "ab63b086156988d5845aea83ff1f765b22140b329681ffa60107c0190aaa597a"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/16x/mod-garden/diy/logo-full.png"
+hash = "15ef727a4ed16a5eee093dc011c023202fc7498b6967f6a3264abdd49528295d"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/16x/mod-garden/diy/logo-minimal.png"
+hash = "19a8464fb687ee9413485c4a2f64ed21cd8287fc08f4288541cc2012ed388468"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/16x/mod-garden/diy/logo-outline.png"
+hash = "50b535f769cbe95e3195d417d304e125310d91e033168ecb0f324bd74a1da9c3"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/16x/mod-garden/generic/icon-background.png"
+hash = "81bbbfc81356c611f15304ef0f823712aef4577c55aa7d1496935b9f4121abb1"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/16x/mod-garden/generic/icon.png"
+hash = "89bb70217d861391ecc794db4784c298bac51bd96bbe22e48fe5f9e79ac4daff"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/16x/mod-garden/generic/logo-small-outline.png"
+hash = "9e1f5d9e50ebaa02f2696b484e8e2d0e7294930d9b5533a19ef6e89772716055"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/16x/mod-garden/generic/logo-small.png"
+hash = "956d8f1292f930e55f9f2d3e733c37df9c1f26f183c71c9f1941d9e3a0018cbf"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/16x/mod-garden/nature/icon.png"
+hash = "d6765a53bc64f084c824e06c30d0c5c1eee86576d92495e0097f97b1701f7044"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/16x/mod-garden/nature/logo-full.png"
+hash = "b8d013513a45b610f1a6dbc034ee4098fa8a3afd306e2692f1e528c424c6459d"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/16x/mod-garden/nature/logo-minimal.png"
+hash = "04240750897045b641b65ae314418fbec352bb0277341e45c6129c3a818cf127"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/16x/mod-garden/nature/logo-outline.png"
+hash = "e61baa5b928cecf93790acf1a286da86fe7f93b72a963ec9a159c92aaf58e826"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/1x/mod-garden/diy/icon.png"
+hash = "f9fe224e0b8b8863e20dbdedc6f5c67a96996eca777eea4b015faf0b702199be"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/1x/mod-garden/diy/logo-full.png"
+hash = "143547ea25941de4adaf146c3c60df7de299e259ac8d348df91433592a4f6452"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/1x/mod-garden/diy/logo-minimal.png"
+hash = "23142d16c1b1e03016127935337e18d761e85cd4bf0d01a33eff85fd86988c4e"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/1x/mod-garden/diy/logo-outline.png"
+hash = "582313f387af04dd01413ec4e226fcd75eed2060c8a436aa374602b1dc32beb2"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/1x/mod-garden/generic/icon-background.png"
+hash = "18cbd2be2efc3f3f69049cb9f81211b43546d0d7f7e0dad57a8dd1cc42c5ee98"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/1x/mod-garden/generic/icon.png"
+hash = "10f3e13fa93bdf87104d2d707319e16bf5d725774c469b8db4c5a66841c0fd15"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/1x/mod-garden/generic/logo-small-outline.png"
+hash = "11eaa0f19d42c81bd64f54e07c56c65337e3a4e2fd1f8c960e580359d307b48f"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/1x/mod-garden/generic/logo-small.png"
+hash = "f51d3b7e261a57c280c96d5c7aeff6c6e3a57d139ebc2a72459c600f6222a94e"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/1x/mod-garden/nature/icon.png"
+hash = "5d9e043088b8d304114791e92655e7d2e429220bd9c0e6624173f3d752a25cf7"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/1x/mod-garden/nature/logo-full.png"
+hash = "6e0dbabb2012157df6c23688ec2d0553485f8f56e4ecc50416cf02d71f517308"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/1x/mod-garden/nature/logo-minimal.png"
+hash = "74462c146b7d831587459819ea5b34123e2c5b9ba35307c74040748145677703"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/1x/mod-garden/nature/logo-outline.png"
+hash = "575519f1dc8b012695c66c6d4e7bd7a43bea084abc99d2bb25efadf1f7533e0d"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/64x/mod-garden/diy/icon.png"
+hash = "c41e01ab9a62130eb0f10cc67b108917aadd21598294837aaa3ad9033ebb0d69"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/64x/mod-garden/diy/logo-full.png"
+hash = "62e61161a4835d111c28117f11fe7ae3a1e1479415e93700c53a3f23a3a5fae8"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/64x/mod-garden/diy/logo-minimal.png"
+hash = "2e7521f3726b8c9dc9089703922e0a934cf7c07e9820200be09f42613a77944a"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/64x/mod-garden/diy/logo-outline.png"
+hash = "9cba6de12de0ca4bcffb3d07d5065e674d017b7c905c67c3dcd3b9df53e5be7a"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/64x/mod-garden/generic/icon-background.png"
+hash = "bbeaf4c0665c5f55f22afbf77fb34364be9f8aab59b60f6bd8351877ecdf7629"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/64x/mod-garden/generic/icon.png"
+hash = "5f291e6f80740800f4bac3e3e86a8a0d56d0d28b5b51dbe759909c38abb7e1ca"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/64x/mod-garden/generic/logo-small-outline.png"
+hash = "718498971f4c90d6b220e1aa9de4b95fec4a8baef51f571137a613f54be2b7c2"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/64x/mod-garden/generic/logo-small.png"
+hash = "9e4df794b79bef6ee264d8ab3f99237a98a9b1cb64cf52fc76bf3934877ba7d8"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/64x/mod-garden/nature/icon.png"
+hash = "180bad69b8dd7e5f1fa4f8df3fccc251dcfddccd4d86b4dbdfe2f9ef5e07ba1c"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/64x/mod-garden/nature/logo-full.png"
+hash = "bc9c0926dd6aa5a370a5bef239a4d857a48567f3962b2e48de8db528f3577bc8"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/64x/mod-garden/nature/logo-minimal.png"
+hash = "5ead50cf36956411915a54d8bdcfbed280bb7aebaa217fc0ade075f9e8c5587f"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/64x/mod-garden/nature/logo-outline.png"
+hash = "ef5d432952c1abbd2b0f121d7898bc92f1316ecbdda2b5ad9b2faa07517db528"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/8x/mod-garden/diy/icon.png"
+hash = "effaf05c9082eb400c30abacc08d0705f2dd7d7790d4f1ebcdb1e070ccb43b17"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/8x/mod-garden/diy/logo-full.png"
+hash = "baeb54a8ebcf9d5fe75eab9e8c9e1bf03ae29322f0d8a6ecf88de7210b140695"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/8x/mod-garden/diy/logo-minimal.png"
+hash = "a3dbd71760f7d940018c49eac06ce104ed13f487ebfb79a7759b7898c52a7f4f"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/8x/mod-garden/diy/logo-outline.png"
+hash = "b49b0f8d10c7fbe1291bec1f82c2a5f4c123ab6b29662f9e148303606e7cf879"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/8x/mod-garden/generic/icon-background.png"
+hash = "66088fec63f9d5469e8648cfd877df8e4d2eb0545b28fe300f80b981e2ba0095"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/8x/mod-garden/generic/icon.png"
+hash = "65f9d236efb0108ec30099e60b188ea37c831f9bfc1adf00f0b4956ce3cc3372"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/8x/mod-garden/generic/logo-small-outline.png"
+hash = "844eaef45ef77eed1c0ccf8ef5a86fd2f0a6ce3213db5ff345cdd91c798dcb62"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/8x/mod-garden/generic/logo-small.png"
+hash = "446e839b499fe97b2daf35212043a5685c932ff46c5da87758fbc4138421e7e2"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/8x/mod-garden/nature/icon.png"
+hash = "b526359978db8dbeca44580d4723de0550461736397a9c3e27f328c1c90efe20"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/8x/mod-garden/nature/logo-full.png"
+hash = "b2594636a0a5f7d36f6744856b9551763edeed36353dbe7f7cf666205e24b064"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/8x/mod-garden/nature/logo-minimal.png"
+hash = "2469eb0329c77e6c8da1e9321b7822fdf860d73e3cc9f527648776c5fae9e92a"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/8x/mod-garden/nature/logo-outline.png"
+hash = "4fdeeb3eb9311ae04096822fd65346fe6ed791d2390f1e0f830c9e69bf687e34"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/pack.mcmeta"
+hash = "d2d708c3430243c9d4c6015fb042d815dccadff4a5653a4a9abefbd0a8967098"
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/font/emoji.json"
+hash = "cfad68ad39da7e88099c45b48eb0460a256f6a0a36da5bf6dd67705ec478f441"
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/font/icons.json"
+hash = "c608bdfa05e3ad761dc129ea2a509c71ad75055fc3b1019c963a1b0c7b11c151"
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/ace_heart.png"
+hash = "91962f620f843e5876873cbc6bc425bceabcee0f9777d426d15dcf7164890f5c"
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/agender_heart.png"
+hash = "01483c782af5bcb8ad75bf190461e6886804b2b797a99225e09202284a7c4888"
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/ananas_good.png"
+hash = "01acf1974640f5e3f75a1269275e3674ca1d90ccd81dbf5862eeae20aa640051"
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/ananas_great.png"
+hash = "70de5d2343ee7f041a3c25b84d2bb27675a2df88ff0a02d5bd9c54aa35ce8415"
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/ananas_none.png"
+hash = "2c845443c0cc46f75d6812ef4fd82001b4431be7f5e3fd3e69cad4255766c846"
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/ananas_question.png"
+hash = "612fb894339086898aa82f36b5e0b27f2f0cd69abf7843954a702017c45675fe"
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/aro_heart.png"
+hash = "ca1eb24863913d914b5663b25d798190e39eed00b61598017aae01fbe0017abc"
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/aroace_heart.png"
+hash = "ecabc3babf47a3ba511246c04501109b971f1e0d5eaf65cd9c632120b8d4ff07"
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/bi_heart.png"
+hash = "5d56fc98bcb4e7c35aa9d1469e2e1947961fcbb95ef8ddba73de9f403c459042"
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/bigender_heart.png"
+hash = "aae6bf628d89e3f730756c46e9391af7ee9ee8966b0c2175bb082d9a3325fd99"
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/blob_waaaaa.png"
+hash = "e7c95bffd2011deb7d499b06908442b29be0877069b318211311a52ffc1afe6e"
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/dead_garden.png"
+hash = "8263bf1107af8be24c82c80bcbe67ee21badb98a2f7af01c8f4e168b71c427e4"
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/demi_heart.png"
+hash = "2c3c4292a8d39a961ef82913a18ed42c1cc218f8ced6f6c2463da54b83b79e13"
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/femboy_heart.png"
+hash = "a19bff1c13fb2c2e32871099280ad4701115458b6b58e832e0e0a6d11a35e179"
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/furry_pride.png"
+hash = "54e4f10ae6554fd09d6dbbc68885c67c459fd68f4c9fade7a555d17cd73eda02"
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/genderfluid_heart.png"
+hash = "e39cab1aa75e5b76c111d34c7e3fa0fdf4f81cfc0affd592976ed8111700b775"
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/genderflux_heart.png"
+hash = "00a043d26d8f2e387d3f046821e80b960f3e994e66d5eb4320d6953721a25b50"
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/genderqueer_heart.png"
+hash = "bf626401a45f6186c5b65a9e0b522d3f5a55f8736af2fc5aa913691fb5fd272b"
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/git.png"
+hash = "7477061811a8f0ebb3b2797fc1730bd5ee38780bf1b2e5fbaf9195efd207f7ba"
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/github.png"
+hash = "7c837c7662926a71037d049cefe57903cf1ed7e7d890c257a719c1606fcaf35d"
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/intersex_heart.png"
+hash = "ef2790a714e97db20ddffad681abdc5f6dbb6b704b7642d56e2e386d1f63d052"
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/leek.png"
+hash = "cab749e8d4071a5966cda03fd3d347339459a4d9b808c3f69791b5174e035afc"
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/lesbian_heart.png"
+hash = "52db7df3ac622ae7cb6ac9faea5c235b5e389804fed44eeed225b4ebb438a2f8"
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/mg_diy.png"
+hash = "ab63b086156988d5845aea83ff1f765b22140b329681ffa60107c0190aaa597a"
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/mg_nature.png"
+hash = "d6765a53bc64f084c824e06c30d0c5c1eee86576d92495e0097f97b1701f7044"
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/mod_garden.png"
+hash = "89bb70217d861391ecc794db4784c298bac51bd96bbe22e48fe5f9e79ac4daff"
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/modfest.png"
+hash = "cc3606402df249f31b788864045544efcfb83351b6d313f09136cae283c0cbe8"
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/modrinth.png"
+hash = "0acee28902274a59eef81b75a318ccee9ce3e44f74185a92b08615a60e2e7e90"
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/mojank.png"
+hash = "c8636612771b06ce0f8a7923dab483d5316273a25ef587bd9b8dbb4cf4820edb"
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/nb_heart.png"
+hash = "24f80c4047f1a23f801be7b8b9f2ab1c8f765a5c4e886395e37f357d8b41a82d"
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/neurodiversity_heart.png"
+hash = "35d4f50adcaa461c9258e581bf9f1f992f119cddcd9b6ce7d71dcb48457f1e63"
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/ohno.png"
+hash = "289158f5a72fa49b9b889ef40a490f262b2fdfe6b6259447d6c725f141ca5ec5"
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/pan_heart.png"
+hash = "461e11413268cfc522602a264a07cb647b0f82777143a39e3b51f8c86243886b"
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/plural_heart.png"
+hash = "5c0483d1c7f44517fe4308567cfd6b82d88a51d3b9dfce63c52a5a23ee69b8a5"
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/queer_heart.png"
+hash = "3a3cbb9db4faf24bcae3391fdfcb1a37859e05634bac9fc115d32849b7daa783"
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/queer_prog_heart.png"
+hash = "57340f63f6e7ce33bf3784e133bd7b101611d8da4e436ecdeceb4ca9dcfac510"
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/tiny_pineapple.png"
+hash = "5e766a09fe2757793a6d3787abeccf3fa5705fba3d5043da83a72c836f9487c5"
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/tiny_pineapple2.png"
+hash = "e302c4032c827becbb59d4e0986c742ae01566d982b124b9cc9b773a9b30be4e"
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/trans_heart.png"
+hash = "35fdac808d78ee864fe9a3c24f0e3805e0ffbb5d5e2fd4537a2a838408e1d405"
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/uh.png"
+hash = "f752b0745e11f31a459db4ffdd4cbe21f890dd0f9206f2a46dd81176335106a1"
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/vincian_heart.png"
+hash = "a4ccfe2662889698487ed7b6d3556e4e8d254068cc652d2778820b7926147384"
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/whyfest.png"
+hash = "d2c3a022fd0994fb2daa1b07fcbd3d542086e5def54089b7e73461047346eae0"
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/winnger.png"
+hash = "7fc813e4f8ed3574531da39848907e7021104126faca24787f18169b85a6a507"
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/assets/modgarden/textures/emoji/yeefuckinghaw.png"
+hash = "f23dd11734c0f881cf2caa2c1d9ee91842cf9f3e7ed1cf0871a1d0b3f2eabbd8"
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/pack.mcmeta"
+hash = "bbea307c48988be4df7673f3dad9187833383371f7e848cfd56feea440d3d075"
 
 [[files]]
 file = "resources/resourcepack/required/mg_emoji/styled_chat_emoji.json"
+hash = "c349858f46d1e561ad87f2d3ab7a0bfc857828278ceec79dc70dc86c06ace7ec"
 
 [[files]]
 file = "resources/resourcepack/required/twemoji.zip"
+hash = "5569f65f90f1443ef907e2747b5df4fc358145f18497dfa2b3e05ada4ac8eee1"
 
 [[files]]
 file = "server-icon.png"
+hash = "55b96d635bf90da1bf7304253af5615b512402dece6322d50391c320abbc21ee"
 
 [[files]]
 file = "server.properties"
+hash = "dc58d7c70dfa5b8ebeaab34ab0d0291ee3271aba80b739894c1ce9f977718039"
 
 [[files]]
 file = "unsup.toml"
+hash = "761be88b59ac4a3bf97e7236c12b9116098c45760675cfc73b4775b0213bd9aa"
