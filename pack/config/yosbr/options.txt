@@ -121,6 +121,7 @@ key_key.playercontainer.release:key.keyboard.b
 key_key.polaroidcamera.take_picture:key.keyboard.c
 key_key.polysit.sit:key.keyboard.y
 key_key.portable_crafting.open_crafting_table:key.keyboard.unknown
+key_key.rrv.toggle_overlay:key.keyboard.unknown
 key_key.scattered_shards.collection:key.keyboard.j
 key_key.sidekick.teleport:key.keyboard.unknown
 key_key.sidekick.save_position:key.keyboard.unknown

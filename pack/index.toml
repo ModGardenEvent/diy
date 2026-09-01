@@ -198,8 +198,7 @@ file = "mods/lambdabettergrass.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/lithium.pw.toml"
-metafile = true
+file = "mods/lithium.pw.toml.disabled"
 
 [[files]]
 file = "mods/lmft.pw.toml.disabled"
@@ -228,11 +227,19 @@ file = "mods/particle-rain.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/pbwarps.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/player-roles-1.8.1+26.1-mod-garden.jar"
+
+[[files]]
+file = "mods/polymer.pw.toml"
+metafile = true
 
 [[files]]
 file = "mods/rrv.pw.toml"
@@ -362,6 +369,15 @@ file = "resources/common/required/mg_shards/data/scattered_shards/shard_type/typ
 file = "resources/common/required/mg_shards/pack.mcmeta"
 
 [[files]]
+file = "resources/datapack/required/mf_ballotbox/data/ballotbox/ballot/categories.json"
+
+[[files]]
+file = "resources/datapack/required/mf_ballotbox/data/ballotbox/ballot/options.json"
+
+[[files]]
+file = "resources/datapack/required/mf_ballotbox/pack.mcmeta"
+
+[[files]]
 file = "resources/datapack/required/panacea_shard/data/mod-garden/advancement/trigger/create_required_potions.json"
 
 [[files]]
@@ -405,6 +421,9 @@ file = "resources/resourcepack/required/mg_branding/assets/minecraft/textures/gu
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/minecraft/textures/gui/title/minecraft.png"
+
+[[files]]
+file = "resources/resourcepack/required/mg_branding/assets/mod-garden/lang/en_us.json"
 
 [[files]]
 file = "resources/resourcepack/required/mg_branding/assets/modgarden/textures/art/graphics/16x/mod-garden/diy/icon.png"
