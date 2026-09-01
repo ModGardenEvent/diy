@@ -1,8 +1,8 @@
 name = "Flowerbed"
-filename = "flowerbed-0.9.0+26.1.2.jar"
+filename = "flowerbed-0.9.1+26.1.2.jar"
 side = "both"
 
 [download]
-url = "https://github.com/ModGardenEvent/flowerbed/releases/download/v0.9.0/flowerbed-0.9.0+26.1.2.jar"
+url = "https://github.com/ModGardenEvent/flowerbed/releases/download/v0.9.1/flowerbed-0.9.1+26.1.2.jar"
 hash-format = "sha256"
-hash = "fa1446ee497fe0fe219b4c1c3f0b95c5946e6965f275d051ebf880a203e56184"
+hash = "5f0cc8462aeab27edd00f83d8460032a8f5de31fb478639149400561c8ac055d"
