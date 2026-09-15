@@ -70,7 +70,6 @@ def main():
 
 	os.chdir(dest_pack)
 	subprocess.run([packwiz, "refresh", "--build"])
-	subprocess.run([packwiz, "mr export"])
 
 if __name__ == "__main__":
 	main()

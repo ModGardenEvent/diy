@@ -123,8 +123,3 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
         
-      - name: Upload Build
-        uses: actions/upload-artifact@v4
-        with:
-          name: Mod Garden Modrinth Pack
-          path: ${{ github.workspace }}/*.mrpack
